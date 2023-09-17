@@ -4,8 +4,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 text-center">
                 <div class="section-head section-md tc-light">
-                    <h5 class="heading-xs">Our Process</h5>
-                    <h2>Let Us Tell The World About You With The Right Marketing Tools For Your Business!                        
+                    <h3 class="heading-xs">Our Process</h3>
+                    <h2>Let Us Tell The World About You With The Right Marketing Tools For Your Business!
                     </h2>
                 </div>
             </div>
@@ -16,7 +16,7 @@
                     <div class="icon-box">
                         <strong class="icon">01</strong>
                         <div class="icon-box-content">
-                            <h6 class="tc-primary">Concept</h6>
+                            <h3 class="tc-primary">Concept</h3>
                         </div>
                     </div>
                     <div class="feature-content">
@@ -29,7 +29,7 @@
                     <div class="icon-box">
                         <strong class="icon">02</strong>
                         <div class="icon-box-content">
-                            <h6 class="tc-primary">Production</h6>
+                            <h3 class="tc-primary">Production</h3>
                         </div>
                     </div>
                     <div class="feature-content">
@@ -42,7 +42,7 @@
                     <div class="icon-box">
                         <strong class="icon">03</strong>
                         <div class="icon-box-content">
-                            <h6 class="tc-primary">Post Production</h6>
+                            <h3 class="tc-primary">Post Production</h3>
                         </div>
                     </div>
                     <div class="feature-content">

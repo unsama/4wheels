@@ -8,28 +8,28 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="../../images/favicon.ico">
     <!-- Site Title  -->
-    <title>Megapixel Technologies | Proofreading & Editing - Proofreading Services</title>
+    <title>Megapixel Technologies | Best Proofreading Agency UK</title>
     <meta name="description"
         content="Editing & Proofreading is important to ensure the accuracy & quality of translation, We provide quality proofreading services for your needs.">
-    <link rel="canonical" href="https://megapixeltech.com/services/social-media-marketing/proofreading-and-editing" />
+    <link rel="canonical" href="https://megapixeltech.com/proofreading-agency-uk" />
     <meta name="robots" content="index, follow" />
 
       <!-- Twitter Card data -->
       <meta name="twitter:card" content="summary_large_image"/>
-      <meta name="twitter:title" content="Megapixel Technologies | Proofreading & Editing - Proofreading Services"/>
-      <meta name="twitter:description" content="Editing & Proofreading is important to ensure the accuracy & quality of translation, We provide quality proofreading services for your needs."/>
+      <meta name="twitter:title" content="Megapixel Technologies | Best Proofreading Agency UK"/>
+      <meta name="twitter:description" content="Editing & Proofreading is important to ensure the accuracy & quality of translation, The Best Proofreading Agency UK..."/>
       <meta name="twitter:site" content="@megapixel_tech"/>
       <meta name="twitter:image" content="{{url('/')}}/images/banner-sm-g.jpg"/>
       <meta name="twitter:creator" content="@megapixel_tech"/>
 
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Megapixel Technologies | Proofreading & Editing - Proofreading Services " />
+    <meta property="og:title" content="Megapixel Technologies | Best Proofreading Agency UK" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://megapixeltech.com" />
     <meta property="og:image" content="https://megapixeltech.com/images/bg-a-light.jpg" />
     <meta property="og:description"
-        content="Editing & Proofreading is important to ensure the accuracy & quality of translation, We provide quality proofreading services for your needs." />
+        content="Editing & Proofreading is important to ensure the accuracy & quality of translation, The Best Proofreading Agency UK..." />
 
 
 
@@ -47,6 +47,21 @@
 
   gtag('config', 'G-QP1GVB6YDT');
   </script>
+
+
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
 </head>
 
 <body class="body-wider">
@@ -59,7 +74,7 @@
                         <div class="row ">
                             <div class="col-md-10 col-xl-7 offset-xl-0">
                                 <div class="banner-content">
-                                    <h1 class="banner-heading">Proofreading And Editing</h1>
+                                    <h1 class="banner-heading">Proofreading Agency UK</h1>
                                 </div>
                             </div>
                         </div>
@@ -78,7 +93,7 @@
             <div class="row justify-content-between">
                 <div class="col-md-5">
                     <div class="section-head section-md res-m-btm">
-                        <h5 class="heading-xs dash">Proofreading & Editing</h5>
+                        <h2 class="heading-xs dash">Proofreading & Editing</h2>
                         <h2 class="text-3xl font-bold">Avail Our Proofreading And Editing Services</h2>
                     </div>
                 </div><!-- .col -->
@@ -94,6 +109,54 @@
         </div><!-- .container -->
     </div>
     <!-- .section -->
+
+    <div class="section section-l bg-light tc-grey">
+			<div class="container">
+				<div class="row justify-content-center gutter-vr-30px">
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">What we offer</h3>
+							<p>Welcome to Megapixel Technologies. We are thrilled to offer you our professional proofreading and editing services that can help you take your content to the next level. In today's digital age, content is king. Whether it's your website copy, blog posts, or social media captions, your content represents your brand and your voice.That's why it's crucial to ensure that your content is flawless and error-free. That's where our proofreading and editing services come in. </p>
+						</div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Our Process</h3>
+                            <p>Our team of expert editors and proofreaders have years of experience in the industry and have honed their skills to ensure that your content is error-free, engaging, and clear. We offer a range of proofreading and editing services that cater to your needs, including copy editing, line editing, content editing, and proofreading. At our digital agency, we understand that every client's needs are unique, and that's why we offer customized solutions tailored to your specific requirements.</p>
+						    <p>At Megapixel Technologies, we understand that every client's needs are unique, and that's why we offer customized solutions tailored to your specific requirements. Our team of experts will work with you closely to ensure that your content is delivered on time, within budget, and exceeds your expectations. </p>
+                        </div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Why Choose Us ?</h3>
+							<p>Our copy editing service ensures that your content is free from grammatical errors, spelling mistakes, and punctuation issues. Our line editing service goes beyond basic editing to ensure that your content has a consistent tone, style, and voice that resonates with your target audience. Our content editing service is perfect for those who need more extensive help with their content, as it involves a deep dive into your writing to ensure that it is well-structured, informative, and relevant to your audience. Finally, our proofreading service is ideal for those who have already written their content and need a final check to ensure that it is ready for publication.</p>
+                            <p>We take pride in delivering high-quality work on time and within budget. Our commitment to excellence has earned us a reputation as one of the top digital agencies in the industry. Contact us today to learn more about our proofreading and editing services and how we can help you take your content to the next level.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+
+    <div class="section section-l bg-light">
+			<div class="container">
+				<div class="content">
+					<div class="row gutter-vr-30px">
+						<div class="col-xl-6 order-lg-last">
+							<div class="image-block">
+								<img src="{{URL::asset('images/services/proofreading-and-editing.jpg')}}" alt="Proofreading & Editing" title="Articles & Blog Posts">
+							</div>
+						</div>
+						<div class="col-xl-6">
+							<div class="text-block  project-box-pad bg-primary tc-light h-full">
+								<h2>Make Your Content Shine with Our Proofreading and Editing Services</h2>
+								<p class="mt-2">Are you tired of publishing content that is riddled with errors and fails to engage your audience? Look no further than our digital agency's professional proofreading and editing services. Our team of expert editors and proofreaders will help you create content that shines and leaves a lasting impression on your audience.</p>
+                                <p>At Megapixel Technologies, we believe that high-quality content is the key to success in today's digital age. That's why we are committed to delivering work that not only meets but exceeds your expectations. So why settle for mediocre content when you can make it shine with our professional proofreading and editing services? Contact us today to learn more!</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
 
     @include('partials.process2')
 

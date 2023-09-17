@@ -8,28 +8,28 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="{{asset('images/favicon.ico')}}">
     <!-- Site Title  -->
-    <title>Megapixel Technologies | Graphic Design Services - UI UX Services</title>
+    <title>Megapixel Technologies | Best Graphic Design Services In UK</title>
     <meta name="description"
-        content="Megapixel Technologies offers graphic design services, UI UX design services, the best logo design & brand identity services, and much more.">
+        content="Megapixel Technologies offers best graphic design services in UK, UI UX design services, the best logo design & brand identity services, and much more.">
 
-        <link rel="canonical" href="https://megapixeltech.com/services/graphic-design-services" />
-    <meta name="robots" content="index, follow" />
+        <link rel="canonical" href="https://megapixeltech.com/graphic-design-services" />
+        <meta name="robots" content="index, follow" />
 
              <!-- Twitter Card data -->
              <meta name="twitter:card" content="summary_large_image"/>
-             <meta name="twitter:title" content="Megapixel Technologies | Graphic Design Services - UI UX Services"/>
-             <meta name="twitter:description" content="Megapixel Technologies offers graphic design services, UI UX design services, the best logo design & brand identity services, and much more."/>
+             <meta name="twitter:title" content="Megapixel Technologies | Best Graphic Design Services In UK"/>
+             <meta name="twitter:description" content="Megapixel Technologies offers best graphic design services in UK, UI UX design services, the best logo design & brand identity services, and much more."/>
              <meta name="twitter:site" content="@megapixel_tech"/>
              <meta name="twitter:image" content="{{url('/')}}/images/banner-sm-g.jpg"/>
              <meta name="twitter:creator" content="@megapixel_tech"/>
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Megapixel Technologies | Graphic Design Services - UI UX Services - Branding" />
+    <meta property="og:title" content="Megapixel Technologies | Best Graphic Design Services In UK" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://megapixeltech.com/services/graphic-design-services" />
+    <meta property="og:url" content="https://megapixeltech.com/graphic-design-services" />
     <meta property="og:image" content="https://megapixeltech.com/images/bg-a-light.jpg" />
     <meta property="og:description"
-        content="Megapixel Technologies offers graphic design services, UI UX design services, the best logo design & brand identity services, and much more." />
+        content="Megapixel Technologies offers best graphic design services in UK, UI UX design services, the best logo design & brand identity services, and much more." />
 
     <!-- Bundle and Base CSS -->
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
@@ -47,6 +47,21 @@
       </script>
 
 
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
+
+
 
 
 </head>
@@ -62,7 +77,7 @@
                             <div class="row ">
                                 <div class="col-md-10 col-xl-7 offset-xl-0">
                                     <div class="banner-content">
-                                        <h1 class="banner-heading">Graphics & Design</h1>
+                                        <h1 class="banner-heading">Graphic Design Services</h1>
                                     </div>
                                 </div>
                             </div>
@@ -82,7 +97,7 @@
                     <div class="col-md-5">
                         <div class="section-head section-lg res-m-btm">
                             <div class="text-block">
-                                <h5 class="heading-xs dash">Graphic & Design</h5>
+                                <h2 class="heading-xs dash">Graphic & Design</h2>
                                 <h2>DO MORE WITH YOUR DESIGNS! LETS OUR CREATIVITY FUSE WITH YOUR GOALS</h2>
                             </div>
                         </div>
@@ -105,7 +120,7 @@
                 <div class="row justify-content-center gutter-vr-30px">
                     <div class="col-12 col-md-4">
                         <div class="text-box">
-                            <h4 class="fw-6">We Offer</h4>
+                            <h3 class="fw-6">We Offer</h3>
                             <p>We provide web design and development services that represent trust and authority while
                                 directing your brand identity through incredibly imaginative design and functionality.
                             </p>
@@ -113,7 +128,7 @@
                     </div><!-- .col -->
                     <div class="col-12 col-md-4">
                         <div class="text-box">
-                            <h4 class="fw-6">Competitor Analysis</h4>
+                            <h3 class="fw-6">Competitor Analysis</h3>
                             <p>We provide prompt, effective, and swift service in a variety of looks and patterns while
                                 upholding our commitment to innovation. On a pre-made website, the customer can select
                                 from a variety of options.</p>
@@ -121,7 +136,7 @@
                     </div><!-- .col -->
                     <div class="col-12 col-md-4">
                         <div class="text-box">
-                            <h4 class="fw-6">Market Research</h4>
+                            <h3 class="fw-6">Market Research</h3>
                             <p>Our dedicated team of diligent and competent specialists and graphic designers will offer
                                 a true brand image and website visual identity that stands out in the competition.</p>
                         </div>
@@ -136,7 +151,7 @@
         <div class="section section-x tc-grey">
             <div class="container">
                 <div class="pre-sec-head text-center">
-                    <h5 class="heading-xs dash dash-both">SERVICES</h5>
+                    <h4 class="heading-xs dash dash-both">SERVICES</h4>
                 </div>
                 <!-- Graphic & Design -->
                 <div class="row justify-content-center gutter-vr-30px">
@@ -147,10 +162,10 @@
                             </div>
                             <div class="feature-content-s3">
                                 <h3 class="text-xl font-bold">LOGO AND BRAND IDENTITY</h3>
-                                <p>At MegaPixel Technologies, our designers offer distinctive custom logo design
+                                <p>At Megapixel Technologies, our designers offer distinctive custom logo design
                                     services for your business that will help you stand out in your target market. </p>
 
-                                <a href="{{url('/')}}/services/graphic-design-services/logo-design-and-brand-identity"
+                                <a href="{{url('/')}}/brand-agency-london"
                                     class="btn btn-arrow custom-button-arrow">Read
                                     More</a>
                             </div>
@@ -166,7 +181,7 @@
                                 <p>Megapixel Technologies is a top provider of excellent and innovative ecommerce website designing
                                     services. We are experts in providing a diverse range of unique web templates. </p>
 
-                                <a href="{{url('/')}}/services/graphic-design-services/web-mobile-design"
+                                <a href="{{url('/')}}/web-design-agency-uk"
                                     class="btn btn-arrow custom-button-arrow">Read
                                     More</a>
                             </div>
@@ -182,7 +197,7 @@
                                 <p>Megapixel Technologies is a top provider of excellent and innovative ecommerce website designing
                                     services. We are experts in providing a diverse range of unique web templates.  </p>
 
-                                <a href="{{url('/')}}/services/graphic-design-services/ui-ux-design-services"
+                                <a href="{{url('/')}}/ui-ux-design-agency"
                                     class="btn btn-arrow custom-button-arrow">Read
                                     More</a>
                             </div>
@@ -200,7 +215,7 @@
                         <div class="text-block service-block bg-light gutter-vr-30px">
                             <div class="text-box">
                                 <h4 class="fw-6">Plan</h4>
-                                <p>Mega Pixels Technologies understands the brand’s audience and develops smart goals,
+                                <p>Megapixels Technologies understands the brand’s audience and develops smart goals,
                                     using the right tools. Evaluating your online presence, producing content for the
                                     website, and promoting, launching, and optimizing campaigns are all essential
                                     components of our efficient digital marketing action plan.</p>

@@ -36,12 +36,26 @@
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-QP1GVB6YDT"></script>
         <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
 
-        gtag('config', 'G-QP1GVB6YDT');
+            gtag('config', 'G-QP1GVB6YDT');
+            </script>
+
+            <!--Start of Tawk.to Script-->
+            <script type="text/javascript">
+            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+            (function(){
+            var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+            s1.async=true;
+            s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+            s1.charset='UTF-8';
+            s1.setAttribute('crossorigin','*');
+            s0.parentNode.insertBefore(s1,s0);
+            })();
         </script>
+        <!--End of Tawk.to Script-->
 
     </head>
     <body>
@@ -55,7 +69,7 @@
                             <div class="col-md-10 col-xl-7 offset-xl-0">
                                 <div class="banner-content">
                                     <h1 class="banner-heading">Your home for digital marketing solutions</h1>
-                                    <p class="lead lead-lg">Ready for growth? owned by you, driven by us.</p>
+                                    <h2 class="lead lead-lg">Ready for growth? owned by you, driven by us.</h2>
 
                                     <div class="banner-btn">
                                         <a href="{{url('/')}}/services">Check Out Our
@@ -81,7 +95,7 @@
             <div class="row justify-content-between gutter-vr-30px">
                 <div class="col-lg-4 col-xl-3 col-md-8">
                     <div class="section-head section-head-col">
-                        <h5 class="heading-xs dash">What we do</h5>
+                        <h3 class="heading-xs dash">What we do</h3>
                         <h2 class="font-bold">Innovations and impact</h2>
                         <p class="lead">Implementing and managing innovative web marketing techniques to boost your business's profile</p>
                         <a href="https://megapixeltech.com/services" class="btn">Discover More</a>
@@ -97,7 +111,7 @@
                                 <div class="feature-content">
                                     <h3>Graphic & Design</h3>
                                     <p>We are a reputable provider of web design services with the best attitude. </p>
-                                    <a href="https://megapixeltech.com/services/graphic-design-services" class="btn btn-arrow custom-button-arrow">Read
+                                    <a href="https://megapixeltech.com/graphic-design-services" class="btn btn-arrow custom-button-arrow">Read
                                         More</a>
                                 </div>
                             </div>
@@ -110,7 +124,7 @@
                                 <div class="feature-content">
                                     <h3>Social Media Marketing</h3>
                                     <p>Megapixel Technologies gives your social media wings to fly!</p>
-                                    <a href="https://megapixeltech.com/services/social-media-marketing"
+                                    <a href="https://megapixeltech.com/social-media-marketing-agency"
                                        class="btn btn-arrow custom-button-arrow">Read More</a>
                                 </div>
                             </div>
@@ -123,7 +137,7 @@
                                 <div class="feature-content">
                                     <h3>Programming & Tech</h3>
                                     <p>We use the latest technology and we never stop learning</p>
-                                    <a href="https://megapixeltech.com/services/programming-and-tech" class="btn btn-arrow custom-button-arrow">Read
+                                    <a href="https://megapixeltech.com/programming-and-tech" class="btn btn-arrow custom-button-arrow">Read
                                         More</a>
                                 </div>
                             </div>
@@ -136,7 +150,7 @@
                                 <div class="feature-content">
                                     <h3>Digital Marketing</h3>
                                     <p>Megapixel Technologies is the top digital marketing firm </p>
-                                    <a href="https://megapixeltech.com/services/digital-marketing-services" class="btn btn-arrow custom-button-arrow">Read
+                                    <a href="https://megapixeltech.com/digital-marketing-agency-in-uks" class="btn btn-arrow custom-button-arrow">Read
                                         More</a>
                                 </div>
                             </div>
@@ -155,7 +169,7 @@
                 <div class="col-lg-9">
                     <div class="text-block feature-area bg-darker">
                         <div class="section-head">
-                            <h5 class="heading-xs dash">What We Stand For</h5>
+                            <h4 class="heading-xs dash">What We Stand For</h4>
                             <h2 class="font-bold">Our designers and developers do everything to get the attention of your audience.</h2>
                         </div>
                         <div class="row gutter-vr-40px">
@@ -165,7 +179,7 @@
                                         <em class="icon ti-notepad"></em>
                                     </div>
                                     <div class="feature-content feature-content-s4">
-                                        <h4>Quality Products</h4>
+                                        <h3>Quality Products</h3>
                                         <p>Our creative experts provide top-notch quality products to make our clients
                                             stand out among the rest.</p>
                                     </div>
@@ -285,7 +299,7 @@
                             </div>
                             <div class="project-over">
                                 <div class="project-content">
-                                    <h4>Graphic & Design</h4>
+                                    <h3>Graphic & Design</h4>
                                     <p>Logo & Brand Identity</p>
                                 </div>
                             </div>
@@ -531,7 +545,7 @@
             <div class="row justify-content-center ">
                 <div class="col-lg-8 text-center">
                     <div class="section-head section-md">
-                        <h5 class="heading-xs dash dash-both">Testimonial</h5>
+                        <h3 class="heading-xs dash dash-both">Testimonial</h3>
                         <h2 class="font-bold">What clients say about Megapixel Technologies</h2>
                     </div>
                 </div>
@@ -604,7 +618,7 @@
                                                 </p>
                                             </div>
                                             <div class="author-con">
-                                                <h6 class="author-name t-u">HYPER MACK</h6>
+                                                <h3 class="author-name t-u">HYPER MACK</h3>
                                                 <p>CEO - Hellozen Bulk</p>
                                             </div>
                                         </div>
@@ -728,11 +742,11 @@
     <div class="section section-x section-news">
         <div class="container">
             <div class="row justify-content-center gutter-vr-60px">
-                <div class="col-lg-6">
+                <div class="col-lg-12">
                     <div class="row justify-content-center justify-content-md-start no-gutter">
                         <div class="col-10 col-lg-7 text-center text-md-left">
                             <div class="section-head section-sm">
-                                <h5 class="heading-xs dash">Blogs</h5>
+                                <h3 class="heading-xs dash">Blogs</h3>
                                 <h2 class="font-bold">Recent Posts</h2>
                             </div>
                         </div>
@@ -751,9 +765,9 @@
                                     </div>
                                     <div class="post-content text-center text-md-left">
                                         <p class="post-tag post-date">{{date('F j, Y', strtotime($post->created_at))}}</p>
-                                        <h4><a
+                                        <h3><a
                                                 href="{{url('/')}}/blogs/{{$post->meta_slug}}" class="text-capitalize">{{$post->title}}</a>
-                                        </h4>
+                                        </h3>
                                         <a href="{{url('/')}}/blogs/{{$post->meta_slug}}"
                                            class="btn btn-arrow custom-button-arrow">Read More</a>
                                     </div>
@@ -771,8 +785,8 @@
                             </div>
                         </div>
                     </div>
-                </div><!-- .col -->
-                <div class="col-lg-6">
+                </div>
+                <!-- <div class="col-lg-6">
                     <div class="block bdr feed ml-lg-4">
                         <div class="feed-block d-flex">
                             <div class="feed-icon">
@@ -781,16 +795,75 @@
                             <div class="feed-content">
                                 <h4>Megapixel Technologies</h4>
                                 <a
-                                    href="https://twitter.com/megapixel_tech?s=11&t=ZgUU1Nn1GQod_N0gzE16qA">@megapixel_technologies</a>
+                                    href="https://twitter.com/megapixel_tech?s=11&t=ZgUU1Nn1GQod_N0gzE16qA">@megapixel_tech</a>
                             </div>
                         </div>
-                        <div class="feed-block" id="tweets_feed"></div>
+                        <div class="feed-block" id="tweets_feed">
+
+                        </div>
                     </div>
-                </div><!-- .col -->
-            </div><!-- .row -->
-        </div><!-- .container -->
+                </div> -->
+            </div>
+        </div>
     </div>
     <!-- .section-news -->
+
+    <!-- Section Tweets -->
+    <div class="section">
+                        <div class="feed d-flex justify-content-center align-items-center">
+                            <div class="feed-icon">
+                                <i class="icon fab fa-twitter"></i>
+                            </div>
+                            <div class="feed-content">
+                                <h4>Megapixel Technologies</h4>
+                                <a
+                                    href="https://twitter.com/megapixel_tech?s=11&t=ZgUU1Nn1GQod_N0gzE16qA">@megapixel_tech</a>
+                            </div>
+                        </div>
+        <div class="container d-flex justify-content-center align-items-start flex-wrap">
+            <div class="m-1" style="max-width:240px;">
+                             <blockquote class="twitter-tweet">
+                                <p lang="en" dir="ltr">
+                                    SEO, is the process of optimizing a website to increase its visibility and making a website easier to find and navigate, and thus increasing its organic traffic.
+                                    <a href="https://twitter.com/hashtag/megapixeltech?src=hash&amp;ref_src=twsrc%5Etfw">#megapixeltech</a>
+                                    <a href="https://twitter.com/hashtag/digitalmarketing?src=hash&amp;ref_src=twsrc%5Etfw">#digitalmarketing</a>
+                                    <a href="https://twitter.com/hashtag/SEO?src=hash&amp;ref_src=twsrc%5Etfw">#SEO</a>
+                                    <a href="https://twitter.com/hashtag/seoagency?src=hash&amp;ref_src=twsrc%5Etfw">#seoagency</a>
+                                    <a href="https://twitter.com/hashtag/tech?src=hash&amp;ref_src=twsrc%5Etfw">#tech</a>
+                                    <a href="https://t.co/LQyTFzFQdg">pic.twitter.com/LQyTFzFQdg</a>
+                                </p>&mdash; Megapixel Technologies (@megapixel_tech) <a href="https://twitter.com/megapixel_tech/status/1631249974074679299?ref_src=twsrc%5Etfw">March 2, 2023</a>
+                              </blockquote>
+            </div>
+            <div class="m-1" style="max-width:240px;">
+                <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Social media marketing can help to increase brand awareness by making your business more visible online. Through the use of various social media platforms, you can reach more people and increase your brand’s visibility<a href="https://twitter.com/hashtag/megapixeltech?src=hash&amp;ref_src=twsrc%5Etfw">#megapixeltech</a> <a href="https://twitter.com/hashtag/digitalmarketing?src=hash&amp;ref_src=twsrc%5Etfw">#digitalmarketing</a> <a href="https://twitter.com/hashtag/socialmediamarketing?src=hash&amp;ref_src=twsrc%5Etfw">#socialmediamarketing</a> <a href="https://twitter.com/hashtag/tech?src=hash&amp;ref_src=twsrc%5Etfw">#tech</a> <a href="https://t.co/xtur4Pp0iZ">pic.twitter.com/xtur4Pp0iZ</a></p>&mdash; Megapixel Technologies (@megapixel_tech) <a href="https://twitter.com/megapixel_tech/status/1629107930275405826?ref_src=twsrc%5Etfw">February 24, 2023</a>
+                </blockquote>
+            </div>
+            <div class="m-1" style="max-width:240px;">
+                <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Content marketing is all about creating and distributing valuable, relevant, and consistent content to attract and retain a targeted audience.<a href="https://twitter.com/hashtag/megapixeltech?src=hash&amp;ref_src=twsrc%5Etfw">#megapixeltech</a> <a href="https://twitter.com/hashtag/DigitalMarketing?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalMarketing</a> <a href="https://twitter.com/hashtag/marketingagency?src=hash&amp;ref_src=twsrc%5Etfw">#marketingagency</a> <a href="https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw">#contentmarketing</a> <a href="https://t.co/qwnhVexF1Q">pic.twitter.com/qwnhVexF1Q</a></p>&mdash; Megapixel Technologies (@megapixel_tech) <a href="https://twitter.com/megapixel_tech/status/1627007695294275585?ref_src=twsrc%5Etfw">February 18, 2023</a></blockquote>
+            </div>
+            <div class="m-1" style="max-width:240px;">
+                <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ecommerce development involves creating online stores and websites with the goal of improving customer experience and increasing sales.<a href="https://twitter.com/hashtag/megapixeltech?src=hash&amp;ref_src=twsrc%5Etfw">#megapixeltech</a> <a href="https://twitter.com/hashtag/DigitalMarketing?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalMarketing</a> <a href="https://twitter.com/hashtag/technology?src=hash&amp;ref_src=twsrc%5Etfw">#technology</a> <a href="https://twitter.com/hashtag/ecommerce?src=hash&amp;ref_src=twsrc%5Etfw">#ecommerce</a> <a href="https://twitter.com/hashtag/design?src=hash&amp;ref_src=twsrc%5Etfw">#design</a> <a href="https://t.co/3FfyX626d2">pic.twitter.com/3FfyX626d2</a></p>&mdash; Megapixel Technologies (@megapixel_tech) <a href="https://twitter.com/megapixel_tech/status/1625068409762336768?ref_src=twsrc%5Etfw">February 13, 2023</a></blockquote>
+            </div>
+            <div class="m-1" style="max-width:240px;">
+                <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A brand identity is the collective visual elements used to communicate a company’s personality, values, and purpose and is often used to differentiate a company from its competitors.<a href="https://twitter.com/hashtag/megapixeltech?src=hash&amp;ref_src=twsrc%5Etfw">#megapixeltech</a> <a href="https://twitter.com/hashtag/digitalagency?src=hash&amp;ref_src=twsrc%5Etfw">#digitalagency</a> <a href="https://twitter.com/hashtag/digitalmarketingagency?src=hash&amp;ref_src=twsrc%5Etfw">#digitalmarketingagency</a> <a href="https://twitter.com/hashtag/technology?src=hash&amp;ref_src=twsrc%5Etfw">#technology</a> <a href="https://twitter.com/hashtag/brandidentity?src=hash&amp;ref_src=twsrc%5Etfw">#brandidentity</a> <a href="https://twitter.com/hashtag/design?src=hash&amp;ref_src=twsrc%5Etfw">#design</a> <a href="https://t.co/X9ijPE3pyh">pic.twitter.com/X9ijPE3pyh</a></p>&mdash; Megapixel Technologies (@megapixel_tech) <a href="https://twitter.com/megapixel_tech/status/1623278945712971776?ref_src=twsrc%5Etfw">February 8, 2023</a></blockquote>
+            </div>
+            <div class="m-1" style="max-width:240px;">
+                <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As a business owner, you know that Email Marketing is an excellent way to reach new customers and retain existing ones. Get the results you need with Professional Email Strategies.<a href="https://twitter.com/hashtag/megapixeltech?src=hash&amp;ref_src=twsrc%5Etfw">#megapixeltech</a> <a href="https://twitter.com/hashtag/DigitalMarketing?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalMarketing</a> <a href="https://twitter.com/hashtag/EmailMarketing?src=hash&amp;ref_src=twsrc%5Etfw">#EmailMarketing</a> <a href="https://twitter.com/hashtag/marketingagency?src=hash&amp;ref_src=twsrc%5Etfw">#marketingagency</a> <a href="https://twitter.com/hashtag/techno?src=hash&amp;ref_src=twsrc%5Etfw">#techno</a> <a href="https://t.co/WZBXEFlVrS">pic.twitter.com/WZBXEFlVrS</a></p>&mdash; Megapixel Technologies (@megapixel_tech) <a href="https://twitter.com/megapixel_tech/status/1621487042558402560?ref_src=twsrc%5Etfw">February 3, 2023</a></blockquote>
+            </div>
+            <div class="m-1" style="max-width:240px;">
+                <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are experts at transforming potential ideas into unequaled designs to create websites that reflect the principles of your brand and stand out from the competition. <a href="https://twitter.com/hashtag/megapixeltech?src=hash&amp;ref_src=twsrc%5Etfw">#megapixeltech</a> <a href="https://twitter.com/hashtag/digitalagency?src=hash&amp;ref_src=twsrc%5Etfw">#digitalagency</a> <a href="https://twitter.com/hashtag/webdesign?src=hash&amp;ref_src=twsrc%5Etfw">#webdesign</a> <a href="https://twitter.com/hashtag/uiux?src=hash&amp;ref_src=twsrc%5Etfw">#uiux</a> <a href="https://t.co/TJeCI08EPV">pic.twitter.com/TJeCI08EPV</a></p>&mdash; Megapixel Technologies (@megapixel_tech) <a href="https://twitter.com/megapixel_tech/status/1610979699207065600?ref_src=twsrc%5Etfw">January 5, 2023</a></blockquote>
+            </div>
+            <div class="m-1" style="max-width:240px;">
+                <blockquote class="twitter-tweet"><p lang="en" dir="ltr">LET’S ACCELERATE YOUR BUSINESS ENGINE WITH THE BEST DIGITAL MARKETING SOLUTIONS<a href="https://twitter.com/hashtag/Megapixeltech?src=hash&amp;ref_src=twsrc%5Etfw">#Megapixeltech</a> <a href="https://twitter.com/hashtag/DigitalMarketing?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalMarketing</a> <a href="https://twitter.com/hashtag/digitalagency?src=hash&amp;ref_src=twsrc%5Etfw">#digitalagency</a> <a href="https://twitter.com/hashtag/tech?src=hash&amp;ref_src=twsrc%5Etfw">#tech</a> <a href="https://twitter.com/hashtag/InformationTechnology?src=hash&amp;ref_src=twsrc%5Etfw">#InformationTechnology</a> <a href="https://twitter.com/hashtag/SEO?src=hash&amp;ref_src=twsrc%5Etfw">#SEO</a> <a href="https://t.co/oSi1BHbhB6">pic.twitter.com/oSi1BHbhB6</a></p>&mdash; Megapixel Technologies (@megapixel_tech) <a href="https://twitter.com/megapixel_tech/status/1606257339375398912?ref_src=twsrc%5Etfw">December 23, 2022</a></blockquote>
+            </div>
+            <div class="m-1" style="max-width:240px;">
+                <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We help Brands and Companies stand out in the Digital age.<a href="https://twitter.com/hashtag/megapixeltech?src=hash&amp;ref_src=twsrc%5Etfw">#megapixeltech</a> <a href="https://twitter.com/hashtag/webdesigner?src=hash&amp;ref_src=twsrc%5Etfw">#webdesigner</a> <a href="https://twitter.com/hashtag/webdevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#webdevelopment</a> <a href="https://twitter.com/hashtag/technology?src=hash&amp;ref_src=twsrc%5Etfw">#technology</a> <a href="https://twitter.com/hashtag/IT?src=hash&amp;ref_src=twsrc%5Etfw">#IT</a> <a href="https://twitter.com/hashtag/digitalagency?src=hash&amp;ref_src=twsrc%5Etfw">#digitalagency</a> <a href="https://twitter.com/hashtag/DigitalMarketing?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalMarketing</a> <a href="https://twitter.com/hashtag/designers?src=hash&amp;ref_src=twsrc%5Etfw">#designers</a> <a href="https://twitter.com/hashtag/SEO?src=hash&amp;ref_src=twsrc%5Etfw">#SEO</a> <a href="https://twitter.com/hashtag/digitalmarketingagency?src=hash&amp;ref_src=twsrc%5Etfw">#digitalmarketingagency</a> <a href="https://twitter.com/hashtag/DigitalMarketingServices?src=hash&amp;ref_src=twsrc%5Etfw">#DigitalMarketingServices</a> <a href="https://twitter.com/hashtag/Tech4All?src=hash&amp;ref_src=twsrc%5Etfw">#Tech4All</a> <a href="https://twitter.com/hashtag/searchengineoptimization?src=hash&amp;ref_src=twsrc%5Etfw">#searchengineoptimization</a> <a href="https://t.co/dB5kS8UCCk">pic.twitter.com/dB5kS8UCCk</a></p>&mdash; Megapixel Technologies (@megapixel_tech) <a href="https://twitter.com/megapixel_tech/status/1604811381630332928?ref_src=twsrc%5Etfw">December 19, 2022</a></blockquote>
+            </div>
+            <div class="m-1" style="max-width:240px;">
+                <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As a reputable and professional web development agency, Megapixel Technologies implements all kinds of features in web design and development. We provide simple and affordable web solutions.<a href="https://twitter.com/hashtag/megapixeltech?src=hash&amp;ref_src=twsrc%5Etfw">#megapixeltech</a> <a href="https://twitter.com/hashtag/webdesigner?src=hash&amp;ref_src=twsrc%5Etfw">#webdesigner</a> <a href="https://twitter.com/hashtag/WebDevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#WebDevelopment</a> <a href="https://twitter.com/hashtag/digitalagency?src=hash&amp;ref_src=twsrc%5Etfw">#digitalagency</a> <a href="https://twitter.com/hashtag/digitalmarketing?src=hash&amp;ref_src=twsrc%5Etfw">#digitalmarketing</a> <a href="https://twitter.com/hashtag/IT?src=hash&amp;ref_src=twsrc%5Etfw">#IT</a> <a href="https://twitter.com/hashtag/tech?src=hash&amp;ref_src=twsrc%5Etfw">#tech</a> <a href="https://t.co/uLkDL1uC7x">pic.twitter.com/uLkDL1uC7x</a></p>&mdash; Megapixel Technologies (@megapixel_tech) <a href="https://twitter.com/megapixel_tech/status/1603362774196838400?ref_src=twsrc%5Etfw">December 15, 2022</a></blockquote>
+            </div>
+        </div>
+    </div>
 
     @include('partials.cta-section')
 
@@ -799,6 +872,7 @@
     @include('partials.preloader')
 
     <!-- JavaScript -->
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <script src="{{asset('js/jquery.bundle.js')}}"></script>
     <script src="{{asset('js/scripts.js')}}"></script>
     <script src="{{asset('js/custom.js')}}"></script>

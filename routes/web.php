@@ -42,79 +42,79 @@ Route::get('/work/landing', function () {
 
 
 // Services - Digital Marketing
-Route::get('/services/digital-marketing-services', function () {
+Route::get('/digital-marketing-agency-in-uk', function () {
     return view('services.digital-marketing');
 });
-Route::get('/services/digital-marketing-services/affiliate-marketing-services', function () {
+Route::get('/affiliate-marketing-agency', function () {
     return view('services.digital-marketing.affiliate-marketing');
 });
-Route::get('/services/digital-marketing-services/content-creation-service', function () {
+Route::get('/content-creation-service', function () {
     return view('services.digital-marketing.content-creation');
 });
-Route::get('/services/digital-marketing-services/email-marketing-services', function () {
+Route::get('/email-marketing-agency', function () {
     return view('services.digital-marketing.email-marketing');
 });
-Route::get('/services/digital-marketing-services/search-engine-marketing-services', function () {
+Route::get('/search-engine-marketing-uk', function () {
     return view('services.digital-marketing.search-engine-marketing');
 });
-Route::get('/services/digital-marketing-services/search-engine-optimization-services', function () {
+Route::get('/seo-agency-uk', function () {
     return view('services.digital-marketing.search-engine-optimization');
 });
-Route::get('/services/digital-marketing-services/social-media-marketing', function () {
+Route::get('/social-media-marketing-agency-in-uk', function () {
     return view('services.digital-marketing.social-media-marketing');
 });
 
 //Services - Graphics & Design
-Route::get('/services/graphic-design-services', function () {
+Route::get('/graphic-design-services', function () {
     return view('services.graphics-and-design');
 });
-Route::get('/services/graphic-design-services/logo-design-and-brand-identity', function () {
+Route::get('/brand-agency-london', function () {
     return view('services.graphics-and-design.logo-and-brand-identity');
 });
-Route::get('/services/graphic-design-services/web-mobile-design', function () {
+Route::get('/web-design-agency-uk', function () {
     return view('services.graphics-and-design.web-and-mobile-design');
 });
-Route::get('/services/graphic-design-services/ui-ux-design-services', function () {
+Route::get('/ui-ux-design-agency', function () {
     return view('services.graphics-and-design.ui-ux');
 });
 
 //Services - Programming & Tech
-Route::get('/services/programming-and-tech', function () {
+Route::get('/programming-and-tech', function () {
     return view('services.programming-and-tech');
 });
-Route::get('/services/programming-and-tech/ecommerce-website-development', function () {
+Route::get('/ecommerce-development-agency-uk', function () {
     return view('services.programming-and-tech.e-commerce-development');
 });
-Route::get('/services/programming-and-tech/mobile-app-development', function () {
+Route::get('/mobile-app-development-company', function () {
     return view('services.programming-and-tech.mobile-apps');
 });
-Route::get('/services/programming-and-tech/shopify-development', function () {
+Route::get('/shopify-agency-uk', function () {
     return view('services.programming-and-tech.shopify');
 });
-Route::get('/services/programming-and-tech/web-programming-services', function () {
+Route::get('/programming-services', function () {
     return view('services.programming-and-tech.web-programming');
 });
-Route::get('/services/programming-and-tech/cms-website-development-services', function () {
+Route::get('/cms-website-development-services', function () {
     return view('services.programming-and-tech.website-builders-and-cms');
 });
-Route::get('/services/programming-and-tech/wix-website-development-services', function () {
+Route::get('/wix-services-agency-in-uk', function () {
     return view('services.programming-and-tech.wix');
 });
-Route::get('/services/programming-and-tech/wordpress-development-services', function () {
+Route::get('/wordpress-services-agency-in-uk', function () {
     return view('services.programming-and-tech.wordpress');
 });
 
 //Services - Social Media Marketing
-Route::get('/services/social-media-marketing', function () {
+Route::get('/social-media-marketing-agency', function () {
     return view('services.social-media-marketing');
 });
-Route::get('/services/social-media-marketing/article-writing-services', function () {
+Route::get('/article-writing-agency-in-uk', function () {
     return view('services.social-media-marketing.article-and-blog-posts');
 });
-Route::get('/services/social-media-marketing/proofreading-and-editing', function () {
+Route::get('/proofreading-agency-uk', function () {
     return view('services.social-media-marketing.proofreading-and-editing');
 });
-Route::get('/services/social-media-marketing/cover-letter-writing-services', function () {
+Route::get('/cover-letter-services-agency-in-uk', function () {
     return view('services.social-media-marketing.resume-and-cover-letters');
 });
 

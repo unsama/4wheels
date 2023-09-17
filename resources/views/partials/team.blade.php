@@ -4,7 +4,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-5 text-center">
                 <div class="section-head section-md">
-                    <h5 class="heading-xs dash dash-both">Clients</h5>
+                    <h3 class="heading-xs dash dash-both">Clients</h3>
                     <h2 class="text-3xl font-bold">Our friends who love to work with us</h2>
                 </div>
             </div>

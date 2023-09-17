@@ -8,26 +8,26 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="../../images/favicon.ico">
     <!-- Site Title  -->
-    <title>Megapixel Technologies | Wix Website Development Services - Wix Development Agency</title>
+    <title>Megapixel Technologies | Best Wix Services Agency In UK</title>
     <meta name="description"
-        content="We provide top-notch Wix website development services in the UK. we are a Wix development agency, a digital web agency based in the UK. Contact us for more…">
-    <link rel="canonical" href="https://megapixeltech.com/services/programming-and-tech/wix-website-development-services" />
+        content="We provide top-notch Wix services agency in UK. We provide best services for wix including ecommerce website & more.">
+    <link rel="canonical" href="https://megapixeltech.com/wix-services-agency-in-uk" />
     <meta name="robots" content="index, follow" />
       <!-- Twitter Card data -->
    <meta name="twitter:card" content="summary_large_image"/>
-   <meta name="twitter:title" content="Megapixel Technologies | Wix Website Development Services - Wix Development Agency"/>
-   <meta name="twitter:description" content="We provide top-notch Wix website development services in the UK. we are a Wix development agency, a digital web agency based in the UK. Contact us for more…"/>
+   <meta name="twitter:title" content="Megapixel Technologies | Best Wix Services Agency In UK"/>
+   <meta name="twitter:description" content="We provide top-notch Wix services agency in UK. We provide best services for wix including ecommerce website & more."/>
    <meta name="twitter:site" content="@megapixel_tech"/>
    <meta name="twitter:image" content="{{url('/')}}/images/banner-sm-g.jpg"/>
    <meta name="twitter:creator" content="@megapixel_tech"/>
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Megapixel Technologies | Wix Website Development Services - Wix Development Agency " />
+    <meta property="og:title" content="Megapixel Technologies | Best Wix Services Agency In UK />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://megapixeltech.com" />
     <meta property="og:image" content="https://megapixeltech.com/images/bg-a-light.jpg" />
     <meta property="og:description"
-        content="We provide top-notch Wix website development services in the UK. we are a Wix development agency, a digital web agency based in the UK. Contact us for more…" />
+        content="We provide top-notch Wix services agency in UK. We provide best services for wix including ecommerce website & more." />
 
 
     <!-- Bundle and Base CSS -->
@@ -44,6 +44,21 @@
 
   gtag('config', 'G-QP1GVB6YDT');
   </script>
+
+
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
 </head>
 
 <body class="body-wider">
@@ -56,7 +71,7 @@
                         <div class="row ">
                             <div class="col-md-10 col-xl-7 offset-xl-0">
                                 <div class="banner-content">
-                                    <h1 class="banner-heading">Wix</h1>
+                                    <h1 class="banner-heading">Wix Services Agency In UK</h1>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +90,7 @@
             <div class="row justify-content-between">
                 <div class="col-md-5">
                     <div class="section-head section-md res-m-btm">
-                        <h5 class="heading-xs dash">Wix</h5>
+                        <h2 class="heading-xs dash">Wix</h2>
                         <h2 class="text-3xl font-bold">We help brands and companies stand out in the digital age.</h2>
                     </div>
                 </div><!-- .col -->
@@ -91,6 +106,58 @@
         </div><!-- .container -->
     </div>
     <!-- .section -->
+
+    <div class="section section-l bg-light tc-grey">
+			<div class="container">
+				<div class="row justify-content-center gutter-vr-30px">
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">What we offer</h3>
+							<p>Welcome to Megapixel Technologies, where we specialize in helping businesses build stunning and functional websites using the popular platform, Wix. We understand the importance of having a strong online presence in today's digital age, and with Wix, we can help you create a website that not only looks great but also delivers results.</p>
+                            <p>
+                            Our team of Wix experts are skilled in creating custom designs, optimizing user experience, and improving search engine visibility to ensure your website stands out from the competition. Whether you're looking to launch a brand new website or revamp an existing one, our Wix services are tailored to meet your specific needs. From website design and development to ongoing maintenance and support, we've got you covered.
+                            </p>
+
+						</div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Our Process</h3>
+                            <p>One of the biggest advantages of using Wix is that it's incredibly user-friendly. This means that you don't need any coding skills or technical expertise to get started. However, to truly make the most of Wix's capabilities, it's essential to work with a team of experts who know the ins and outs of the platform. Megapixel Technologies has a deep understanding of Wix's features and functionalities, and we can help you leverage them to create a website that stands out from the crowd. From customizing templates to integrating third-party apps, we can help you unlock the full potential of Wix.</p>
+
+                        </div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Why Choose Us ?</h3>
+
+                            <p>At Megapixel Technologies, we believe that your website is one of the most valuable assets of your business. That's why we're committed to delivering exceptional results and providing you with a website that not only looks great but also drives results. So, if you're looking for a digital agency that can help you build a stunning website using Wix, look no further. Contact us today to learn more about our services and how we can help take your online presence to the next level.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+
+    <div class="section section-l bg-light">
+			<div class="container">
+				<div class="content">
+					<div class="row gutter-vr-30px">
+						<div class="col-xl-6 order-lg-last">
+							<div class="image-block">
+								<img src="{{URL::asset('images/services/wix.jpg')}}" alt="Wix Services" title="Wix Services">
+							</div>
+						</div>
+						<div class="col-xl-6">
+							<div class="text-block  project-box-pad bg-primary tc-light h-full">
+								<h2>Transform Your Online Presence with Wix</h2>
+								<p class="mt-2">Are you looking for a powerful website builder that can take your online presence to the next level? Look no further than Wix, the platform that has revolutionized website design and development. Our digital agency offers comprehensive Wix services that can transform your online presence, from custom website design to SEO optimization and e-commerce development.</p>
+                                <p>With our Wix services, you can enjoy a stunning website that is not only aesthetically pleasing but also highly functional and optimized for search engines. Whether you are a small business owner or a large corporation, our team of experts can create a custom Wix website that meets your unique needs and engages your target audience.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
 
     @include('partials.process2')
 

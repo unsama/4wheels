@@ -8,28 +8,28 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="{{asset('images/favicon.ico')}}">
     <!-- Site Title  -->
-    <title>Megapixel Technologies | Social Media Management Company - Social Media Marketing </title>
+    <title>Megapixel Technologies | Best Social Media Marketing Agency In UK</title>
     <meta name="description"
-        content="We are a quality social media management company based in the UK. We offer effective and quality social media marketing solutions to companies of all sizes.">
+        content="We are the best social media marketing agency in UK. We offer effective and quality social media marketing solutions to companies of all sizes.">
 
-    <link rel="canonical" href="https://megapixeltech.com/services/social-media-marketing" />
+    <link rel="canonical" href="https://megapixeltech.com/social-media-marketing-agency-in-uk" />
     <meta name="robots" content="index, follow" />
 
                <!-- Twitter Card data -->
                <meta name="twitter:card" content="summary_large_image"/>
-               <meta name="twitter:title" content="Megapixel Technologies | Social Media Management Company - Social Media Marketing"/>
-               <meta name="twitter:description" content="We are a quality social media management company based in the UK. We offer effective and quality social media marketing solutions to companies of all sizes."/>
+               <meta name="twitter:title" content="Megapixel Technologies | Best Social Media Marketing Agency In UK"/>
+               <meta name="twitter:description" content="We are the best social media marketing agency in UK. We offer effective and quality social media marketing solutions to companies of all sizes."/>
                <meta name="twitter:site" content="@megapixel_tech"/>
                <meta name="twitter:image" content="{{url('/')}}/images/banner-sm-g.jpg"/>
                <meta name="twitter:creator" content="@megapixel_tech"/>
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Megapixel Technologies | Social Media Management Company - Social Media Marketing " />
+    <meta property="og:title" content="Megapixel Technologies | Best Social Media Marketing Agency In UK" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://megapixeltech.com" />
     <meta property="og:image" content="https://megapixeltech.com/images/bg-a-light.jpg" />
     <meta property="og:description"
-        content="We are a quality social media management company based in the UK. We offer effective and quality social media marketing solutions to companies of all sizes." />
+        content="We are the best social media marketing agency in UK. We offer effective and quality social media marketing solutions to companies of all sizes." />
 
 
 
@@ -48,6 +48,21 @@
       gtag('config', 'G-QP1GVB6YDT');
       </script>
 
+
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
+
 </head>
 
 <body class="body-wider">
@@ -61,7 +76,7 @@
                             <div class="row ">
                                 <div class="col-md-10 col-xl-7 offset-xl-0">
                                     <div class="banner-content">
-                                        <h1 class="banner-heading">Social Media Marketing</h1>
+                                        <h1 class="banner-heading">Social Media Marketing Agency In UK</h1>
                                     </div>
                                 </div>
                             </div>
@@ -82,19 +97,19 @@
                     <div class="col-md-5">
                         <div class="section-head section-lg res-m-btm">
                             <div class="text-block">
-                                <h5 class="heading-xs dash">Social Media Marketing</h5>
+                                <h2 class="heading-xs dash">Social Media Marketing</h2>
                                 <h2>INCREASE YOUR SOCIAL WORTH WITH OUR SOCIAL MEDIA MARKETING SERVICES</h2>
                             </div>
                         </div>
-                    </div><!-- .col -->
+                    </div>
                     <div class="col-md-6">
                         <div class="section-head section-lg">
                             <div class="text-box">
                                 <p class="lead">Megapixel Technologies gives your social media wings to fly! In the UK, Megapixel Technologies is known for its social media marketing efforts. We provide a wide range of social media services that cater to every niche and area. We have an experienced and talented team of content writers that create unique and compelling scripts, podcasts, essays, blogs, and much more. At Megapixel, making your goods the best on the market is our primary goal. So become care-free, and leave this to our experts because it's in the best interest of you. Our social media marketing services are worth the price, because we offer the best in what we do! </p>
                             </div>
                         </div>
-                    </div><!-- .col -->
-                </div><!-- .row -->
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-12">
                         <div class="image-block block-pad-b-100">
@@ -105,7 +120,7 @@
                 <div class="row justify-content-center gutter-vr-30px">
                     <div class="col-12 col-md-4">
                         <div class="text-box">
-                            <h4 class="fw-6">We Offer</h4>
+                            <h3 class="fw-6">We Offer</h3>
                             <p>We provide social media and content marketing services that ring an authoritative signal
                                 to both your audience and search engines.
                             </p>
@@ -113,7 +128,7 @@
                     </div><!-- .col -->
                     <div class="col-12 col-md-4">
                         <div class="text-box">
-                            <h4 class="fw-6">Competitor Analysis</h4>
+                            <h3 class="fw-6">Competitor Analysis</h3>
                             <p>We offer quick content delivery across a range of platforms and markets. A faultless,
                                 thoroughly researched, and brand-specific piece of content that will easily defeat your
                                 rivals and guaranteed higher ranking on search engines.</p>
@@ -121,7 +136,7 @@
                     </div><!-- .col -->
                     <div class="col-12 col-md-4">
                         <div class="text-box">
-                            <h4 class="fw-6">Market Research</h4>
+                            <h3 class="fw-6">Market Research</h3>
                             <p>We produce content with the utmost precision, and our editors check it for perfection,
                                 correctness, consistency, and brand guidelines. So, once your content is provided, all
                                 you have to do is post them without worrying about how good it is.</p>
@@ -137,7 +152,7 @@
         <div class="section section-x tc-grey">
             <div class="container">
                 <div class="pre-sec-head text-center">
-                    <h5 class="heading-xs dash dash-both">SERVICES</h5>
+                    <h4 class="heading-xs dash dash-both">SERVICES</h4>
                 </div>
                 <!-- Graphic & Design -->
                 <div class="row justify-content-center gutter-vr-30px">
@@ -150,7 +165,7 @@
                                 <h3 class="text-xl font-bold">ARTICLE AND BLOG POSTS</h3>
                                 <p>Megapixel Technologies is a content writing firm that is home to the best content
                                     writers in the USA. </p>
-                                <a href="{{url('/')}}/services/social-media-marketing/article-writing-services"
+                                <a href="{{url('/')}}/article-writing-agency-in-uk"
                                     class="btn btn-arrow custom-button-arrow">Read
                                     More</a>
                             </div>
@@ -164,7 +179,7 @@
                             <div class="feature-content-s3">
                                 <h3 class="text-xl font-bold">PROOFREADING & EDITING</h3>
                                 <p>To make your content error-free or to enhance the content, get services from us. Our creative team of content writers go through the content and analyze the mistake</p>
-                                <a href="{{url('/')}}/services/social-media-marketing/proofreading-and-editing"
+                                <a href="{{url('/')}}/proofreading-agency-uk"
                                     class="btn btn-arrow custom-button-arrow">Read
                                     More</a>
                             </div>
@@ -177,8 +192,8 @@
                             </div>
                             <div class="feature-content-s3">
                                 <h3 class="text-xl font-bold">RESUME & COVER LETTERS</h3>
-                                <p>Megapixel wants to serve you extraordinarily, and for this, we also help you build an impressive resume and cover letter that, at a glance, you will notice. </p>
-                                <a href="{{url('/')}}/services/social-media-marketing/cover-letter-writing-services"
+                                <p>Megapixel Technologies wants to serve you extraordinarily, and for this, we also help you build an impressive resume and cover letter that, at a glance, you will notice. </p>
+                                <a href="{{url('/')}}/cover-letter-services-agency-in-uk"
                                     class="btn btn-arrow custom-button-arrow">Read
                                     More</a>
                             </div>
@@ -196,7 +211,7 @@
                         <div class="text-block service-block bg-light gutter-vr-30px">
                             <div class="text-box">
                                 <h4 class="fw-6">Plan</h4>
-                                <p>Mega Pixels Technologies understands the brand’s audience and develops smart goals,
+                                <p>Megapixels Technologies understands the brand’s audience and develops smart goals,
                                     using the right tools. Evaluating your online presence, producing content for the
                                     website, and promoting, launching, and optimizing campaigns are all essential
                                     components of our efficient digital marketing action plan.</p>

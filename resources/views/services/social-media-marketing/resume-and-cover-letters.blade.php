@@ -8,27 +8,27 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="../../images/favicon.ico">
     <!-- Site Title  -->
-    <title>Megapixel Technologies | Best resume writing services - Cover letter writing services</title>
+    <title>Megapixel Technologies | Best Cover Letter Services Agency In UK</title>
     <meta name="description"
-        content="We provide best resume writing services & cover letter writing services of top quality for your requirements…">
-    <link rel="canonical" href="https://megapixeltech.com/services/social-media-marketing/cover-letter-writing-services " />
+        content="We are the best resume writing services agency in UK that provides cover letter writing services of top quality...">
+    <link rel="canonical" href="https://megapixeltech.com/cover-letter-services-agency-in-uk" />
     <meta name="robots" content="index, follow" />
    <!-- Twitter Card data -->
    <meta name="twitter:card" content="summary_large_image"/>
-   <meta name="twitter:title" content="Megapixel Technologies | Best resume writing services - Cover letter writing services"/>
-   <meta name="twitter:description" content="We provide best resume writing services & cover letter writing services of top quality for your requirements…"/>
+   <meta name="twitter:title" content="Megapixel Technologies | Best Cover Letter Services Agency In UK"/>
+   <meta name="twitter:description" content="We are the best resume writing services agency in UK that provides cover letter writing services of top quality..."/>
    <meta name="twitter:site" content="@megapixel_tech"/>
    <meta name="twitter:image" content="{{url('/')}}/images/banner-sm-g.jpg"/>
    <meta name="twitter:creator" content="@megapixel_tech"/>
 
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Megapixel Technologies | Best resume writing services - Cover letter writing services" />
+    <meta property="og:title" content="Megapixel Technologies | Best Cover Letter Services Agency In UK" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://megapixeltech.com" />
     <meta property="og:image" content="https://megapixeltech.com/images/bg-a-light.jpg" />
     <meta property="og:description"
-        content="We provide best resume writing services & cover letter writing services of top quality for your requirements…" />
+        content="We are the best resume writing services agency in UK that provides cover letter writing services of top quality..." />
 
     <!-- Bundle and Base CSS -->
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
@@ -43,6 +43,21 @@
 
   gtag('config', 'G-QP1GVB6YDT');
   </script>
+
+
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
 </head>
 
 <body class="body-wider">
@@ -55,7 +70,7 @@
                         <div class="row ">
                             <div class="col-md-10 col-xl-7 offset-xl-0">
                                 <div class="banner-content">
-                                    <h1 class="banner-heading">Resume And Cover Letters</h1>
+                                    <h1 class="banner-heading">Cover Letter Services Agency In UK</h1>
                                 </div>
                             </div>
                         </div>
@@ -74,7 +89,7 @@
             <div class="row justify-content-between">
                 <div class="col-md-5">
                     <div class="section-head section-md res-m-btm">
-                        <h5 class="heading-xs dash">Resume & Cover Letters</h5>
+                        <h2 class="heading-xs dash">Resume & Cover Letters</h2>
                         <h2 class="text-3xl font-bold">Make Interactive Cover Letter And Resume</h2>
                     </div>
                 </div><!-- .col -->
@@ -90,6 +105,53 @@
         </div><!-- .container -->
     </div>
     <!-- .section -->
+
+    <div class="section section-l bg-light tc-grey">
+			<div class="container">
+				<div class="row justify-content-center gutter-vr-30px">
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">What we offer</h3>
+							<p>We understand the importance of having a well-written and visually appealing resume and cover letter. Your resume and cover letter are often the first impression a potential employer will have of you, and it's crucial to make a good one. Our team of expert writers and designers will work with you to create a professional and personalized resume and cover letter that showcases your skills and experience in the best possible light. We understand that each individual is unique, and we tailor our services to meet your specific needs.</p>
+						</div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Our Process</h3>
+                            <p>Our resume writing services include a comprehensive review of your current resume, a consultation to discuss your career goals and achievements, and a complete rewrite of your resume to ensure it is optimized for the job you are applying for. We also offer a range of design options to make your resume stand out and grab the attention of potential employers.</p>
+						    <p>In addition to our resume writing services, we also provide cover letter writing services. A well-written cover letter can help you stand out from other candidates and show potential employers why you are the best fit for the position. Our expert writers will work with you to create a cover letter that highlights your strengths and accomplishments and demonstrates your enthusiasm for the position.</p>
+                        </div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Why Choose Us ?</h3>
+							<p>Whether you are a recent graduate, changing careers, or simply looking to update your resume and cover letter, our team at our digital agency is here to help. We are dedicated to helping you succeed in your job search and look forward to working with you to create a resume and cover letter that gets results. Contact us today to learn more about our services and how we can help you take your career to the next level.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+
+    <div class="section section-l bg-light">
+			<div class="container">
+				<div class="content">
+					<div class="row gutter-vr-30px">
+						<div class="col-xl-6 order-lg-last">
+							<div class="image-block">
+								<img src="{{URL::asset('images/services/resume-and-cover-letters.jpg')}}" alt="Resume & Cover Letters" title="Resume & Cover Letters">
+							</div>
+						</div>
+						<div class="col-xl-6">
+							<div class="text-block  project-box-pad bg-primary tc-light h-full">
+								<h2>Stand Out from the Crowd with Our Resume & Cover Letters Service</h2>
+								<p class="mt-2">Are you tired of submitting the same old boring resume and generic cover letter with every job application? At Megapixel Technologies, we know that a standout resume and cover letter can make all the difference in landing your dream job. That's why we offer professional resume and cover letter services that are tailored to your unique skills and experience.</p>
+                                <p>With our resume and cover letter services, you can be sure that your job application will stand out from the crowd. We use proven strategies to optimize your resume and cover letter for Applicant Tracking Systems (ATS) and make sure that your application gets in the hands of the hiring manager.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
 
     @include('partials.process2')
 

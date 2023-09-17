@@ -3,7 +3,7 @@
     <div class="header-wrap">
         <!-- Logo  -->
         <div class="header-logo logo">
-            <a href="https://megapixeltech.com/" class="logo-link">
+            <a href="https://megapixeltech.com/" class="logo-link" title="megapixel technologies">
                 <img class="logo-white" src="{{URL::asset('images/logos/logo-1.png')}}" alt="Megapixel Technologies" width="100%" height="100%" title="Megapixel Technologies" loading="lazy">
             </a>
         </div>
@@ -11,7 +11,7 @@
         <!-- Menu Toogle -->
         <div class="header-nav-toggle">
             <!-- <a href="#" class="search search-mobile search-trigger"><i class="icon ti-search"></i></a> -->
-            <a href="#" class="navbar-toggle" data-menu-toggle="header-menu">
+            <a href="#" class="navbar-toggle" data-menu-toggle="header-menu" title="menu">
                 <div class="toggle-line">
                     <span></span>
                 </div>
@@ -24,57 +24,67 @@
             <nav class="header-menu" id="header-menu">
                 <ul class="menu">
                     <li class="menu-item">
-                        <a class="menu-link nav-link" href="{{url('/')}}">Home</a>
+                        <a class="menu-link nav-link" href="{{url('/')}}" title="Home" >Home</a>
                     </li>
                     <li class="menu-item">
-                        <a class="menu-link nav-link" href="{{url('/')}}/blogs">Blogs</a>
+                        <a class="menu-link nav-link" href="{{url('/')}}/blogs" title="Blogs" >Blogs</a>
                     </li>
                     <li class="menu-item has-sub">
-                        <a class="menu-link nav-link" href="{{url('/')}}/services">Services</a>
+                        <a class="menu-link nav-link menu-toggle" href="{{url('/')}}/services" title="Services" >Services</a>
                         <ul class="menu-sub menu-drop">
                             <!-- Graphic & Design -->
                             <li class="menu-item has-sub">
-                                <a class="menu-link nav-link"
-                                   href="{{url('/')}}/services/graphic-design-services">Graphic
+                                <a class="menu-link nav-link menu-toggle"
+                                   href="{{url('/')}}/graphic-design-services"
+                                   title="Graphic Design Services"
+                                   >Graphic
                                     &
                                     Design</a>
                                 <ul class="menu-sub menu-drop">
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/graphic-design-services/logo-design-and-brand-identity">Logo
+                                        title="Logo & Brand Agency UK"
+                                           href="{{url('/')}}/brand-agency-london">Logo
                                             & Brand Identity</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/graphic-design-services/web-mobile-design">Web
+                                        title="Web Design Agency UK"
+                                           href="{{url('/')}}/web-design-agency-uk">Web
                                             & Mobile Design</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/graphic-design-services/ui-ux-design-services">UI/UX</a>
+                                        title="UI/UX Design Services"
+                                           href="{{url('/')}}/ui-ux-design-agency">UI/UX Design</a>
                                     </li>
                                 </ul>
                             </li>
+
                             <!-- Social Media Marketing -->
                             <li class="menu-item has-sub">
-                                <a class="menu-link nav-link"
-                                   href="{{url('/')}}/services/social-media-marketing">Social
+                                <a class="menu-link nav-link menu-toggle"
+                                title="Social Media Marketing Agency UK"
+                                   href="{{url('/')}}/social-media-marketing-agency">Social
                                     Media Marketing</a>
                                 <ul class="menu-sub menu-drop">
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/social-media-marketing/article-writing-services">Article
+                                        title="Article Writing Services"
+                                           href="{{url('/')}}/article-writing-agency-in-uk">Article
                                             & Blog Posts</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/social-media-marketing/proofreading-and-editing">Proofreading
+                                        title="Proofreading Services UK"
+                                           href="{{url('/')}}/proofreading-agency-uk">Proofreading
                                             &
                                             Editing</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/social-media-marketing/cover-letter-writing-services">Resume
+                                        title="Cover Letter Services Agency In UK"
+                                           href="{{url('/')}}/cover-letter-services-agency-in-uk">Resume
                                             &
                                             Cover Letters</a>
                                     </li>
@@ -83,80 +93,94 @@
 
                             <!-- Programming & Tech -->
                             <li class="menu-item has-sub">
-                                <a class="menu-link nav-link"
-                                   href="{{url('/')}}/services/programming-and-tech">Programming
+                                <a class="menu-link nav-link menu-toggle"
+                                title="Programming & Tech"
+                                   href="{{url('/')}}/programming-and-tech">Programming
                                     & Tech</a>
                                 <ul class="menu-sub menu-drop">
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/programming-and-tech/mobile-app-development">Mobile
+                                          title="Mobile App Development Company"
+                                           href="{{url('/')}}/mobile-app-development-company">Mobile
                                             Apps</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/programming-and-tech/shopify-development">Shopify</a>
+                                        title="Shopify Agency UK"
+                                           href="{{url('/')}}/shopify-agency-uk">Shopify</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/programming-and-tech/ecommerce-website-development">E-Commerce
+                                          title="Ecommerce Development Agency UK"
+                                           href="{{url('/')}}/ecommerce-development-agency-uk">E-Commerce
                                             Development</a>
                                     </li>
-                                    <li class="menu-item">
+                                    <!-- <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/programming-and-tech/cms-website-development-services">Website
+                                           href="{{url('/')}}/cms-website-development-services">Website
                                             Builders & CMS</a>
-                                    </li>
+                                    </li> -->
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/programming-and-tech/web-programming-services">Web
+                                        title="Programming Services"
+                                           href="{{url('/')}}/programming-services">Web
                                             Programming</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/programming-and-tech/wix-website-development-services">Wix</a>
+                                        title="Wix Services Agency In UK"
+                                           href="{{url('/')}}/wix-services-agency-in-uk">Wix</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/programming-and-tech/wordpress-development-services">Wordpress</a>
+                                        title="Wordpress Services Agency In UK"
+                                           href="{{url('/')}}/wordpress-services-agency-in-uk">Wordpress</a>
                                     </li>
                                 </ul>
                             </li>
 
                             <!-- Digital Marketing -->
                             <li class="menu-item has-sub">
-                                <a class="menu-link nav-link"
-                                   href="{{url('/')}}/services/digital-marketing-services">Digital
+                                <a class="menu-link nav-link menu-toggle"
+                                title="Digital Marketing Agency In UK"
+                                   href="{{url('/')}}/digital-marketing-agency-in-uk">Digital
                                     Marketing</a>
                                 <ul class="menu-sub menu-drop">
-                                    
+
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/digital-marketing-services/search-engine-optimization-services">Search
+                                        title="SEO Agency UK"
+                                           href="{{url('/')}}/seo-agency-uk">Search
                                             Engine Optimization</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/digital-marketing-services/search-engine-marketing-services">Search
+                                        title="Search Engine Marketing UK"
+                                           href="{{url('/')}}/search-engine-marketing-uk">Search
                                             Engine Marketing</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/digital-marketing-services/social-media-marketing">Social
+                                        title="Social Media Marketing Agency"
+                                           href="{{url('/')}}/social-media-marketing-agency-in-uk">Social
                                             Media Marketing</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/digital-marketing-services/email-marketing-services">Email
+                                        title="Email Marketing Agency"
+                                           href="{{url('/')}}/email-marketing-agency">Email
                                             Marketing</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/digital-marketing-services/affiliate-marketing-services">Affiliate
+                                          title="Affiliate Marketing Agency"
+                                           href="{{url('/')}}/affiliate-marketing-agency">Affiliate
                                             Marketing</a>
                                     </li>
                                     <li class="menu-item">
                                         <a class="menu-link nav-link"
-                                           href="{{url('/')}}/services/digital-marketing-services/content-creation-service">Content
+                                          title="Content Creation Service"
+                                           href="{{url('/')}}/content-creation-service">Content
                                             Creation</a>
                                     </li>
                                 </ul>
@@ -164,10 +188,10 @@
                         </ul>
                     </li>
                     <li class="menu-item">
-                        <a class="menu-link nav-link" href="{{url('/')}}/about">About</a>
+                        <a class="menu-link nav-link" href="{{url('/')}}/about" title="About">About</a>
                     </li>
                     <li class="menu-item">
-                        <a class="menu-link nav-link" href="{{url('/')}}/contact">Contact</a>
+                        <a class="menu-link nav-link" href="{{url('/')}}/contact" title="Contact">Contact</a>
                     </li>
                 </ul>
             </nav>

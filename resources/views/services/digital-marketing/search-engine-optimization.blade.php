@@ -9,27 +9,27 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="../../images/favicon.ico">
     <!-- Site Title  -->
-    <title>Megapixel Technologies | Search Engine Optimization UK - SEO Services </title>
+    <title>Megapixel Technologies | Search Engine Optimization | SEO Agency UK </title>
     <meta name="description"
-        content="We are one of the best search engine optimization uk based firms, that provides all kinds of SEO services including on-page, off-page, technical & more.">
-    <link rel="canonical" href="https://megapixeltech.com/services/digital-marketing-services/search-engine-optimization-services" />
+        content="We are one of the best seo agency uk based firm, that provides all kinds of SEO services including on-page, off-page, technical & more.">
+    <link rel="canonical" href="https://megapixeltech.com/seo-agency-uk" />
     <meta name="robots" content="index, follow" />
 
        <!-- Twitter Card data -->
        <meta name="twitter:card" content="summary_large_image"/>
-       <meta name="twitter:title" content="Megapixel Technologies | Search Engine Optimization UK - SEO Services"/>
-       <meta name="twitter:description" content="We are one of the best search engine optimization uk based firms, that provides all kinds of SEO services including on-page, off-page, technical & more."/>
+       <meta name="twitter:title" content="Megapixel Technologies | Search Engine Optimization | SEO Agency UK "/>
+       <meta name="twitter:description" content="We are one of the best seo agency uk based firm, that provides all kinds of SEO services including on-page, off-page, technical & more."/>
        <meta name="twitter:site" content="@megapixel_tech"/>
        <meta name="twitter:image" content="{{url('/')}}/images/banner-sm-g.jpg"/>
        <meta name="twitter:creator" content="@megapixel_tech"/>
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Megapixel Technologies | Search Engine Optimization UK - SEO Services" />
+    <meta property="og:title" content="Megapixel Technologies | Search Engine Optimization | SEO Agency UK " />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://megapixeltech.com" />
     <meta property="og:image" content="https://megapixeltech.com/images/bg-a-light.jpg" />
     <meta property="og:description"
-        content="We are one of the best search engine optimization uk based firms, that provides all kinds of SEO services including on-page, off-page, technical & more." />
+        content="We are one of the best seo agency uk based firm, that provides all kinds of SEO services including on-page, off-page, technical & more." />
 
 
 
@@ -50,6 +50,21 @@
         </script>
 
 
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
+
+
 </head>
 
 <body class="body-wider">
@@ -62,7 +77,7 @@
                         <div class="row ">
                             <div class="col-md-10 col-xl-7 offset-xl-0">
                                 <div class="banner-content">
-                                    <h1 class="banner-heading">Search Engine Optimization</h1>
+                                    <h1 class="banner-heading">SEO Agency UK</h1>
                                 </div>
                             </div>
                         </div>
@@ -81,7 +96,7 @@
             <div class="row justify-content-between">
                 <div class="col-md-5">
                     <div class="section-head section-md res-m-btm">
-                        <h5 class="heading-xs dash">Search Engine Optimization</h5>
+                        <h2 class="heading-xs dash">Search Engine Optimization</h2>
                         <h2 class="text-3xl font-bold">Increase Your Website's Ranking on Google</h2>
                     </div>
                 </div><!-- .col -->
@@ -97,6 +112,54 @@
         </div><!-- .container -->
     </div>
     <!-- .section -->
+
+    <div class="section section-l bg-light tc-grey">
+			<div class="container">
+				<div class="row justify-content-center gutter-vr-30px">
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">What we offer</h3>
+							<p>Welcome to our Content Marketing page. Our digital agency specializes in helping businesses create and distribute high-quality content that engages their audience, builds brand awareness, and drives conversions. Content marketing is a strategic approach to creating and distributing valuable, relevant, and consistent content to attract and retain a clearly defined audience.</p>
+						</div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Our Process</h3>
+                            <p>Our team of experienced content marketing experts can help you develop a content strategy that aligns with your business goals and audience needs. We'll work closely with you to create content that resonates with your audience, whether it's blog posts, social media updates, videos, or other types of content.</p>
+                            <p>Our content marketing services include content strategy development, content creation, content distribution, content promotion, and content analysis. We'll work with you to identify the types of content that will resonate with your audience and create a content calendar that ensures a consistent flow of high-quality content. Our team of content creators will help you create high-quality content that engages your audience and drives conversions.</p>
+						</div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Why Choose Us ?</h3>
+							<p>We'll help you distribute your content across multiple channels, including your website, social media channels, email marketing campaigns, and other relevant platforms. Our team will use data-driven insights to ensure that your content reaches your target audience and drives engagement. We'll also promote your content to ensure maximum exposure and engagement.</p>
+
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+
+    <div class="section section-l bg-light">
+			<div class="container">
+				<div class="content">
+					<div class="row gutter-vr-30px">
+						<div class="col-xl-6 order-lg-last">
+							<div class="image-block">
+								<img src="{{URL::asset('images/services/search-engine-marketing.jpg')}}" alt="SEO Agency UK" title="SEO Agency UK">
+							</div>
+						</div>
+						<div class="col-xl-6">
+							<div class="text-block  project-box-pad bg-primary tc-light h-full">
+								<h2>Boost Your Website's Visibility with our SEO services</h2>
+								<p class="mt-2">Our comprehensive SEO services are designed to boost your website's visibility on search engines, attract more traffic, and generate more leads and sales. We'll work closely with you to develop a custom SEO strategy that's tailored to your business needs and goals.</p>
+                                <p>Our website audit services will help identify areas of your website that need improvement, while our keyword research services will help identify the most relevant and high-value keywords for your business. Our on-page optimization services will ensure that your website's content is optimized for those keywords, while our content marketing and link building services will help establish your brand as an authority in your industry and attract high-quality backlinks.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
 
     @include('partials.process2')
 

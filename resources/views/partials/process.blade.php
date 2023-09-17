@@ -4,8 +4,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-12 text-center">
                 <div class="section-head section-sm">
-                    <h5 class="heading-xs dash dash-both">Our Process</h5>
-                    <h2 class="font-bold">Let Us Tell The World About You With The Right 
+                    <h3 class="heading-xs dash dash-both">Our Process</h3>
+                    <h2 class="font-bold">Let Us Tell The World About You With The Right
                         Marketing Tools For Your Business!
                         </h2>
                 </div>

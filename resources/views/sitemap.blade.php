@@ -14,161 +14,161 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/digital-marketing-services</loc>
+        <loc>{{ url('/') }}/digital-marketing-agency-in-uk</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/digital-marketing-services/affiliate-marketing-services</loc>
+        <loc>{{ url('/') }}/affiliate-marketing-agency</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/digital-marketing-services/content-creation-service</loc>
+        <loc>{{ url('/') }}/content-creation-service</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/digital-marketing-services/email-marketing-services</loc>
+        <loc>{{ url('/') }}/email-marketing-agency</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/digital-marketing-services/search-engine-marketing-services</loc>
+        <loc>{{ url('/') }}/search-engine-marketing-uk</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/digital-marketing-services/search-engine-optimization-services</loc>
+        <loc>{{ url('/') }}/seo-agency-uk</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/digital-marketing-services/social-media-marketing</loc>
+        <loc>{{ url('/') }}/social-media-marketing-agency</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/graphic-design-services</loc>
+        <loc>{{ url('/') }}/graphic-design-services</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/graphic-design-services/logo-design-and-brand-identity</loc>
+        <loc>{{ url('/') }}/brand-agency-london</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/graphic-design-services/web-mobile-design</loc>
+        <loc>{{ url('/') }}/web-design-agency-uk</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/graphic-design-services/ui-ux-design-services</loc>
+        <loc>{{ url('/') }}/ui-ux-design-agency</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/programming-and-tech</loc>
+        <loc>{{ url('/') }}/programming-and-tech</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/programming-and-tech/ecommerce-website-development</loc>
+        <loc>{{ url('/') }}/ecommerce-development-agency-uk</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/programming-and-tech/mobile-app-development</loc>
+        <loc>{{ url('/') }}/mobile-app-development-company</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/programming-and-tech/shopify-development</loc>
+        <loc>{{ url('/') }}/shopify-agency-uk</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/programming-and-tech/web-programming-services</loc>
+        <loc>{{ url('/') }}/programming-services</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/programming-and-tech/cms-website-development-services</loc>
+        <loc>{{ url('/') }}/cms-website-development-services</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/programming-and-tech/wix-website-development-services </loc>
+        <loc>{{ url('/') }}/wix-services-agency-in-uk</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/programming-and-tech/wordpress-development-services</loc>
+        <loc>{{ url('/') }}/wordpress-services-agency-in-uk</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/social-media-marketing</loc>
+        <loc>{{ url('/') }}/social-media-marketing-agency</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/social-media-marketing/article-writing-services</loc>
+        <loc>{{ url('/') }}/article-writing-agency-in-uk</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/social-media-marketing/proofreading-and-editing</loc>
+        <loc>{{ url('/') }}/proofreading-agency-uk</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>{{ url('/') }}/services/social-media-marketing/cover-letter-writing-services</loc>
+        <loc>{{ url('/') }}/cover-letter-services-agency-in-uk</loc>
         <lastmod>{{date("Y-m-d")}}</lastmod>
 
         <changefreq>weekly</changefreq>

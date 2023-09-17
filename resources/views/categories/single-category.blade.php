@@ -11,7 +11,7 @@
     <title>Megapixel Technologies | Digital Web Agency - Blogs For {{Route::current()->parameter('category')}}</title>
     <meta name="description"
         content="The best digital marketing agency and digital web agency that offers cutting-edge digital solutions for your needs, but Megapixel Technologies is the best of both.">
-    <link rel="canonical" href="{{url('/')}}/categories/business" />
+    <link rel="canonical" href="{{url('/')}}/categories/{{Route::current()->parameter('category')}}" />
     <meta name="robots" content="index, follow" />
 
     <!-- Twitter Card data -->
@@ -45,6 +45,21 @@
 
   gtag('config', 'G-QP1GVB6YDT');
   </script>
+
+
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
 
 </head>
 
@@ -143,9 +158,9 @@
                                 <div class="wgs-content">
                                     <ul class="post-recent">
                                         @foreach($posts as $post)
-                                        @if($loop->index > 3) 
+                                        @if($loop->index > 3)
                                         @break
-                                        
+
                                         @endif
                                         <li>
                                             <h5><a

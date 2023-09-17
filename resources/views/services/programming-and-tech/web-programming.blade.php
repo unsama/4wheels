@@ -8,26 +8,26 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="../../images/favicon.ico">
     <!-- Site Title  -->
-    <title>Megapixel Technologies | Web Programming Services - Python Programming - Javascript Programming</title>
+    <title>Megapixel Technologies | Best Tech & Programming Services In UK</title>
     <meta name="description"
-        content="We provide web programming services of all kinds. Python programming, javascript programming, c programming & much more…">
-    <link rel="canonical" href="https://megapixeltech.com/services/programming-and-tech/web-programming-services" />
+        content="We provide web programming services of all kinds. We have quality programmers for Python, javascript, c & much more…">
+    <link rel="canonical" href="https://megapixeltech.com/programming-services" />
     <meta name="robots" content="index, follow" />
    <!-- Twitter Card data -->
    <meta name="twitter:card" content="summary_large_image"/>
-   <meta name="twitter:title" content="Megapixel Technologies | Web Programming Services - Python Programming - Javascript Programming"/>
-   <meta name="twitter:description" content="We provide web programming services of all kinds. Python programming, javascript programming, c programming & much more…"/>
+   <meta name="twitter:title" content="Megapixel Technologies | Best Tech & Programming Services In UK"/>
+   <meta name="twitter:description" content="We provide web programming services of all kinds. We have quality programmers for Python, javascript, c & much more…"/>
    <meta name="twitter:site" content="@megapixel_tech"/>
    <meta name="twitter:image" content="{{url('/')}}/images/banner-sm-g.jpg"/>
    <meta name="twitter:creator" content="@megapixel_tech"/>
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Megapixel Technologies | Web Programming Services - Python Programming - Javascript Programming" />
+    <meta property="og:title" content="Megapixel Technologies | Best Tech & Programming Services In UK" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://megapixeltech.com" />
     <meta property="og:image" content="https://megapixeltech.com/images/bg-a-light.jpg" />
     <meta property="og:description"
-        content="We provide web programming services of all kinds. Python programming, javascript programming, c programming & much more…" />
+        content="We provide web programming services of all kinds. We have quality programmers for Python, javascript, c & much more…" />
 
 
     <!-- Bundle and Base CSS -->
@@ -44,6 +44,21 @@
 
   gtag('config', 'G-QP1GVB6YDT');
   </script>
+
+
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
 </head>
 
 <body class="body-wider">
@@ -56,7 +71,7 @@
                         <div class="row ">
                             <div class="col-md-10 col-xl-7 offset-xl-0">
                                 <div class="banner-content">
-                                    <h1 class="banner-heading">Web Programming</h1>
+                                    <h1 class="banner-heading">Web Programming Services In UK</h1>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +90,7 @@
             <div class="row justify-content-between">
                 <div class="col-md-5">
                     <div class="section-head section-md res-m-btm">
-                        <h5 class="heading-xs dash">Web Programming</h5>
+                        <h2 class="heading-xs dash">Web Programming</h2>
                         <h2 class="text-3xl font-bold">We help brands and companies stand out in the digital age.</h2>
                     </div>
                 </div><!-- .col -->
@@ -91,6 +106,54 @@
         </div><!-- .container -->
     </div>
     <!-- .section -->
+
+    <div class="section section-l bg-light tc-grey">
+			<div class="container">
+				<div class="row justify-content-center gutter-vr-30px">
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">What we offer</h3>
+							<p>Our Programming and Tech service page offers comprehensive programming and tech solutions to help businesses of all sizes build and grow their online presence. Our team of experienced programmers and tech experts can help you with everything from developing custom software to creating responsive and user-friendly websites. Whether you're looking to improve your existing technology infrastructure or build a brand new solution from scratch, we can help.</p>
+						</div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Our Process</h3>
+                            <p>Our team of expert programmers can develop custom software tailored to your specific needs. Whether you need a new software application or want to improve an existing one, we can help you develop a solution that meets your unique business requirements. We have expertise in a wide range of programming languages and frameworks, so we can provide the right solution for your needs.</p>
+						    <p>In addition to custom software development, we can also help you with website development and design. Our team can create a responsive, user-friendly, and visually appealing website that is optimized for search engines and designed to convert visitors into customers. We can also provide ongoing support and maintenance to ensure your website remains up-to-date and secure.</p>
+                        </div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Why Choose Us ?</h3>
+							<p>Our tech experts can also help you with network infrastructure setup, cloud migration, data management, and more. We understand that every business has unique technology requirements, and that's why we take a personalized approach to every project we work on. Our team takes the time to understand your business goals and objectives, and we work with you to develop a customized solution that meets your specific needs and requirements.</p>
+                            <p>So, if you're looking to improve your technology infrastructure, develop custom software, or create a responsive website, get in touch with us today. Let our team of experts help you achieve your online goals and grow your business.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+
+    <div class="section section-l bg-light">
+			<div class="container">
+				<div class="content">
+					<div class="row gutter-vr-30px">
+						<div class="col-xl-6 order-lg-last">
+							<div class="image-block">
+								<img src="{{URL::asset('images/services/web-programming.jpg')}}" alt="Web Programming Services" title="Web Programming Services">
+							</div>
+						</div>
+						<div class="col-xl-6">
+							<div class="text-block  project-box-pad bg-primary tc-light h-full">
+								<h2>Empower Your Business with Custom Programming and Tech Solutions</h2>
+								<p class="mt-2">Is your business struggling to keep up with the demands of the modern digital landscape? Let our Programming and Tech service page help you stay ahead of the curve. As a leading digital agency, we offer comprehensive programming and tech solutions to help businesses of all sizes build and grow their online presence.</p>
+                                <p>Our team of experienced programmers and tech experts can help you with everything from developing custom software to creating responsive and user-friendly websites. We take a personalized approach to every project we work on, ensuring that we understand your business goals and objectives, and develop a customized solution that meets your specific needs.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
 
     @include('partials.process2')
 

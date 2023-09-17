@@ -1,6 +1,6 @@
 var NioApp =(function (jQ, win, doc){
     "use strict";
-    var NioApp = {AppInfo: {name: "GENOX", package: "1.3.0", version: "1.3.0", author: "Softnio"} },
+    var NioApp = {AppInfo: {name: "Megapixel Tech", package: "1.3.0", version: "1.3.0", author: "Megapixel Tech"} },
         components = {docReady: [], docReadyDefer: [], winLoad: [], winLoadDefer: []};
 
     jQ(doc).ready(docReady);
@@ -698,7 +698,7 @@ NioApp = function (NioApp, $, window, document) {
         if($('#'+_tweets_feed).exists()){
             var twitterConfig = {
                 "profile": {
-                  "screenName": 'megapixel_tech'
+                    "screenName": '@megapixel_tech'
                 },
                 "domId": _tweets_feed,
                 "maxTweets": 3,

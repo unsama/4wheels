@@ -42,6 +42,21 @@
       gtag('config', 'G-QP1GVB6YDT');
       </script>
 
+
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
+
 </head>
 <body>
 <header class="is-sticky is-shrink is-boxed header-s1" id="header">
@@ -73,7 +88,7 @@
         <div class="row">
             <div class="col-xl-4 col-lg-8">
                 <div class="section-head">
-                    <h5 class="heading-xs dash">Feel the form</h5>
+                    <h2 class="heading-xs dash">Feel the form</h4>
                     <h2>Describe your project and leave us your contact info</h2>
                 </div>
             </div><!-- .col -->
@@ -82,7 +97,7 @@
             <div class="col-lg-4 order-lg-last">
                 <div class="contact-text contact-text-s2 bg-secondary box-pad ">
                     <div class="text-box">
-                        <h4>Megapixel Technologies</h4>
+                        <h3>Megapixel Technologies</h3>
                         <p class="lead">33 Glencroft Road, Glasgow, G44 5RA, United Kingdom</p>
                     </div>
                     <ul class="contact-list">

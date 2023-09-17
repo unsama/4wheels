@@ -38,7 +38,7 @@
 
                             <div class="project-content">
 
-                                <h4>Tinder Online</h4>
+                                <h3>Tinder Online</h3>
 
                                 <p>Digital Media</p>
 

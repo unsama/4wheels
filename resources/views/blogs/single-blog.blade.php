@@ -46,6 +46,21 @@
 
   gtag('config', 'G-QP1GVB6YDT');
   </script>
+
+
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
 </head>
 
 <body class="body-wider">
@@ -112,9 +127,9 @@
                                             <p>{{$post->author_name}}</p>
                                         </div>
                                     </div>
-                                    <h3><a
+                                    <h2><a
                                             href="{{url('/')}}/blogs/{{$post->mega_slug}}">In
-                                           {{$post->title}}</a></h3>
+                                           {{$post->title}}</a></h2>
                                     <div class="content">
                                         <p>{!! $post->description !!}</p>
                                     </div>
@@ -145,9 +160,9 @@
 
                                     @endif
                                     <li>
-                                        <h5><a
+                                        <h4 style="font-size:16px;"><a
                                                 href="{{url('/')}}/blogs/{{$post->meta_slug}}" class="text-capitalize">{{$post->title}}
-                                            </a></h5>
+                                            </a></h4>
                                         <p class="post-tag ">{{date('F j, Y', strtotime($post->created_at))}}</p>
                                     </li>
                                     @endforeach

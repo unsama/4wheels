@@ -43,6 +43,22 @@
       gtag('config', 'G-QP1GVB6YDT');
       </script>
 
+
+
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
+
 </head>
 <body>
 <header class="is-sticky is-shrink is-boxed header-s1" id="header">
@@ -75,7 +91,7 @@
         <div class="row gutter-vr-30px">
             <div class="col-md-6">
                 <div class="text-block pr-2rem">
-                    <h5 class="heading-xs dash t-u">We Are</h5>
+                    <h2 class="heading-xs dash t-u">We Are</h2>
                     <h2>Megapixel Technologies is a bold-thinking digital agency working for leading brands
                         worldwide.</h2>
                     <p class="lead">Megapixel Technologies provides their clients with a detailed report that will elaborate on the planning, organizing, implementing, and tracking of their brand’s digital marketing and social media campaigns in order to connect with the right target audiences and achieve their objectives.</p>
@@ -86,14 +102,14 @@
                     <div class="row gutter-vr-20px">
                         <div class="col-12 col-md-12 col-lg-6">
                             <div class="text-box project-box-pad bg-secondary h-full">
-                                <h4>What we do</h4>
+                                <h3>What we do</h3>
                                 <p>We work at the frontier of interactive development and design. We are highly
                                     skilled and happily take on complex technical challenges.</p>
                             </div>
                         </div>
                         <div class="col-12 col-md-12 col-lg-6">
                             <div class="text-box project-box-pad bg-secondary h-full">
-                                <h4>Culture</h4>
+                                <h3>Culture</h3>
                                 <p>A friendly, ambitious team in a great office space makes Uppercase an awesome
                                     place to work. We believe having fun leads to better results dadcation.</p>
                             </div>
@@ -112,7 +128,7 @@
         <div class="row justify-content-end">
             <div class="col-md-10 col-lg-5">
                 <div class="text-block bg-light block-pad-80">
-                    <h5 class="heading-xs dash">Why us</h5>
+                    <h4 class="heading-xs dash">Why us</h4>
                     <h2>We love to make a difference by creating digital experiences that simplify and enhance
                         value.</h2>
                     <a href="https://megapixeltech.com/services" class="btn">Our Services</a>
@@ -185,8 +201,6 @@
 
 
 @include('partials.team')
-
-
 
 @include('partials.cta-section')
 

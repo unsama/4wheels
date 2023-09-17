@@ -8,26 +8,26 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="../../images/favicon.ico">
     <!-- Site Title  -->
-    <title>Megapixel Technologies | Wordpress Web Development Agency - Wordpress Development</title>
+    <title>Megapixel Technologies | Best Wordpress Services Agency In UK</title>
     <meta name="description"
-        content="We are a top-notch wordpress web development agency based in UK, we provide wordpress development services of all types including ecommerce,theme customizations, plugin development & more.">
-    <link rel="canonical" href="https://megapixeltech.com/services/programming-and-tech/wordpress-development-services" />
+        content="We are the best wordpress services agency in UK, we provide wordpress development services of all types including ecommerce...">
+    <link rel="canonical" href="https://megapixeltech.com/wordpress-services-agency-in-uk" />
     <meta name="robots" content="index, follow" />
       <!-- Twitter Card data -->
       <meta name="twitter:card" content="summary_large_image"/>
-      <meta name="twitter:title" content="Megapixel Technologies | Wordpress Web Development Agency - Wordpress Development"/>
-      <meta name="twitter:description" content="We are a top-notch wordpress web development agency based in UK, we provide wordpress development services of all types including ecommerce,theme customizations, plugin development & more."/>
+      <meta name="twitter:title" content="Best Wordpress Services Agency In UK"/>
+      <meta name="twitter:description" content="We are the best wordpress services agency in UK, we provide wordpress development services of all types including ecommerce..."/>
       <meta name="twitter:site" content="@megapixel_tech"/>
       <meta name="twitter:image" content="{{url('/')}}/images/banner-sm-g.jpg"/>
       <meta name="twitter:creator" content="@megapixel_tech"/>
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Megapixel Technologies | Wordpress Web Development Agency - Wordpress Development" />
+    <meta property="og:title" content="Best Wordpress Services Agency In UK" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://megapixeltech.com" />
     <meta property="og:image" content="https://megapixeltech.com/images/bg-a-light.jpg" />
     <meta property="og:description"
-        content="We are a top-notch wordpress web development agency based in UK , we provide wordpress development services of all types including ecommerce,theme customizations, plugin development & more." />
+        content="We are the best wordpress services agency in UK, we provide wordpress development services of all types including ecommerce..." />
 
 
 
@@ -45,6 +45,22 @@
 
       gtag('config', 'G-QP1GVB6YDT');
       </script>
+
+
+
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
 </head>
 
 <body class="body-wider">
@@ -57,7 +73,7 @@
                         <div class="row ">
                             <div class="col-md-10 col-xl-7 offset-xl-0">
                                 <div class="banner-content">
-                                    <h1 class="banner-heading">Wordpress</h1>
+                                    <h1 class="banner-heading">Wordpress Services Agency In UK</h1>
                                 </div>
                             </div>
                         </div>
@@ -76,7 +92,7 @@
             <div class="row justify-content-between">
                 <div class="col-md-5">
                     <div class="section-head section-md res-m-btm">
-                        <h5 class="heading-xs dash">Wordpress</h5>
+                        <h2 class="heading-xs dash">Wordpress</h2>
                         <h2 class="text-3xl font-bold">We help brands and companies stand out in the digital age.</h2>
                     </div>
                 </div><!-- .col -->
@@ -92,6 +108,64 @@
         </div><!-- .container -->
     </div>
     <!-- .section -->
+
+    <div class="section section-l bg-light tc-grey">
+			<div class="container">
+				<div class="row justify-content-center gutter-vr-30px">
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">What we offer</h3>
+							<p>Welcome to Megapixel Technologies, We are dedicated to helping businesses maximize their online presence by providing top-quality WordPress solutions. WordPress is a powerful and versatile platform that can help you create a website that is not only visually appealing but also functional and user-friendly.</p>
+                            <p>
+                            Whether you're looking to create a new website from scratch, redesign your existing WordPress website, or optimize your website for better performance, our team of experienced WordPress developers and designers can help. We specialize in creating custom WordPress websites that are easy to navigate, visually stunning, and optimized for search engines.
+                            </p>
+
+						</div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Our Process</h3>
+                            <p>Our WordPress services include website design and development, theme customization, plugin development, content migration, performance optimization, security enhancement, and ongoing maintenance and support. We work closely with you to understand your business needs, goals, and target audience, and develop a WordPress website that reflects your brand identity and engages your customers.</p>
+                            <p>
+                            Our team of experts uses the latest tools and techniques to create WordPress websites that are fast, responsive, and optimized for all devices. We also ensure that your website is secure and protected against cyber threats, with regular updates and backups to prevent any downtime or data loss.
+                            </p>
+
+                        </div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Why Choose Us ?</h3>
+
+                            <p>At Megapixel Technologies, we are committed to providing high-quality WordPress services that deliver exceptional results. We pride ourselves on our professionalism, attention to detail, and commitment to customer satisfaction. Whether you need a simple blog, an e-commerce website, or a complex web application, we can help you achieve your goals with our WordPress services.</p>
+                            <p>
+                            Contact us today to learn more about our WordPress services and how we can help you create a website that stands out in the crowded digital landscape. We look forward to working with you and helping you grow your business online.
+                            </p>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+
+    <div class="section section-l bg-light">
+			<div class="container">
+				<div class="content">
+					<div class="row gutter-vr-30px">
+						<div class="col-xl-6 order-lg-last">
+							<div class="image-block">
+								<img src="{{URL::asset('images/services/wordpress.jpg')}}" alt="Wordpress Services" title="Wordpress Services">
+							</div>
+						</div>
+						<div class="col-xl-6">
+							<div class="text-block  project-box-pad bg-primary tc-light h-full">
+								<h2>Unleash Your Creativity with Custom WordPress Websites!</h2>
+								<p class="mt-2">Are you tired of using generic website templates that do not reflect your brand identity and fail to impress your customers? Do you want to stand out in the crowded digital landscape and make a lasting impression? Look no further than our custom WordPress websites! At Megapixel Technologies, we specialize in creating personalized, visually stunning, and user-friendly WordPress websites that can help you unleash your creativity and achieve your business goals.</p>
+                                <p>Our team of experienced WordPress developers and designers works closely with you to understand your unique needs, goals, and target audience. We use the latest tools and techniques to create custom WordPress websites that are tailored to your specific requirements and reflect your brand personality. Whether you need a simple blog, an e-commerce website, or a complex web application, we can help you unleash your creativity and achieve your business objectives.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
 
     @include('partials.process2')
 

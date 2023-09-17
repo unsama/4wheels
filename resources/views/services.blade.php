@@ -47,6 +47,20 @@
       gtag('config', 'G-QP1GVB6YDT');
       </script>
 
+      <!--Start of Tawk.to Script-->
+        <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
+
 </head>
 <body>
 <header class="is-sticky is-shrink is-boxed header-s1" id="header">
@@ -79,7 +93,7 @@
         <div class="row justify-content-between">
             <div class="col-md-5">
                 <div class="section-head section-md res-m-btm">
-                    <h5 class="heading-xs dash">OUR SERVICES</h5>
+                    <h2 class="heading-xs dash">OUR SERVICES</h2>
                     <h2>We help brands and companies stand out in the digital age.</h2>
                 </div>
             </div><!-- .col -->
@@ -116,7 +130,7 @@
                     <div class="feature-content-s3">
                         <h3>Social Media Marketing</h3>
                         <p>Megapixel Technologies gives your social media wings to fly! Our experienced and talented team of content writers create unique and compelling scripts, podcasts, essays, blogs, and much more.  So become care-free, and leave this to our experts because it's in the best interest of you. Our social media marketing services are worth the price, because we offer the best in what we do!</p>
-                        <a href="https://megapixeltech.com/services/social-media-marketing"
+                        <a href="https://megapixeltech.com/services/social-media-marketing-agency"
                            class="btn btn-arrow custom-button-arrow">Read
                             More</a>
                     </div>
@@ -144,7 +158,7 @@
                     <div class="feature-content-s3">
                         <h3>Digital Marketing</h3>
                         <p>Megapixel Technologies offers high-quality IT and technical seo consulting services that guarantees high-quality assurance, long-term support, and maintenance. We have a team of tech specialists that streamline your R&D and IT operations. We promise flawless quality, prompt delivery, and smooth communication. Make Megapixel Technologies your one-stop technological partner if you want the exceptional IT development services.</p>
-                        <a href="https://megapixeltech.com/services/digital-marketing-services" class="btn btn-arrow custom-button-arrow">Read
+                        <a href="https://megapixeltech.com/services/digital-marketing-agency-in-uk" class="btn btn-arrow custom-button-arrow">Read
                             More</a>
                     </div>
                 </div>

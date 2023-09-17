@@ -8,27 +8,27 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="../../images/favicon.ico">
     <!-- Site Title  -->
-    <title>Megapixel Technologies | ecommerce website development - ecommerce services</title>
+    <title>Megapixel Technologies | Best Ecommerce Development Agency UK</title>
     <meta name="description"
-        content="We provide services for custom e-commerce development. The best e-commerce mobile and web applications can be obtained by hiring our top app developers.">
-    <link rel="canonical" href="https://megapixeltech.com/services/programming-and-tech/ecommerce-website-development" />
+        content="Best ecommerce development agency uk provides you with, All types of ecommerce development services on wordpress, magento...">
+    <link rel="canonical" href="https://megapixeltech.com/ecommerce-development-agency-uk" />
     <meta name="robots" content="index, follow" />
 
          <!-- Twitter Card data -->
          <meta name="twitter:card" content="summary_large_image"/>
-         <meta name="twitter:title" content="Megapixel Technologies | ecommerce website development - ecommerce services"/>
-         <meta name="twitter:description" content="We provide services for custom e-commerce development. The best e-commerce mobile and web applications can be obtained by hiring our top app developers."/>
+         <meta name="twitter:title" content="Megapixel Technologies | Best Ecommerce Development Agency UK"/>
+         <meta name="twitter:description" content="Best ecommerce development agency uk provides you with, All types of ecommerce development services on wordpress, magento..."/>
          <meta name="twitter:site" content="@megapixel_tech"/>
          <meta name="twitter:image" content="{{url('/')}}/images/banner-sm-g.jpg"/>
          <meta name="twitter:creator" content="@megapixel_tech"/>
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Megapixel Technologies | ecommerce website development - ecommerce services" />
+    <meta property="og:title" content="Megapixel Technologies | Best Ecommerce Development Agency UK" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://megapixeltech.com" />
     <meta property="og:image" content="https://megapixeltech.com/images/bg-a-light.jpg" />
     <meta property="og:description"
-        content="We provide services for custom e-commerce development. The best e-commerce mobile and web applications can be obtained by hiring our top app developers." />
+        content="Best ecommerce development agency uk provides you with, All types of ecommerce development services on wordpress, magento..." />
 
 
     <!-- Bundle and Base CSS -->
@@ -45,6 +45,21 @@
   gtag('config', 'G-QP1GVB6YDT');
   </script>
 
+
+      <!--Start of Tawk.to Script-->
+        <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+        <!--End of Tawk.to Script-->
+
 </head>
 
 <body class="body-wider">
@@ -57,13 +72,13 @@
                         <div class="row ">
                             <div class="col-md-10 col-xl-7 offset-xl-0">
                                 <div class="banner-content">
-                                    <h1 class="banner-heading">E Commerce Development</h1>
+                                    <h1 class="banner-heading">Ecommerce Development Agency UK</h1>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="bg-image change-bg">
-                        <img src="{{URL::asset('images/banner-sm-g.jpg')}}" alt="E Commerce Development" width="100%" height="100%" title="E Commerce Development" loading="lazy">
+                        <img src="{{URL::asset('images/banner-sm-g.jpg')}}" alt="Ecommerce Development Agency UK" width="100%" height="100%" title="Ecommerce Development Agency UK" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -76,7 +91,7 @@
             <div class="row justify-content-between">
                 <div class="col-md-5">
                     <div class="section-head section-md res-m-btm">
-                        <h5 class="heading-xs dash">E-Commerce Development</h5>
+                        <h2 class="heading-xs dash">E-Commerce Development</h2>
                         <h2 class="text-3xl font-bold">We help brands and companies stand out in the digital age.</h2>
                     </div>
                 </div><!-- .col -->
@@ -92,6 +107,56 @@
         </div><!-- .container -->
     </div>
     <!-- .section -->
+
+    <div class="section section-l bg-light tc-grey">
+			<div class="container">
+				<div class="row justify-content-center gutter-vr-30px">
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">What we offer</h3>
+							<p>Welcome to our e-commerce development service page! We are a digital agency that specializes in creating high-performing e-commerce websites for businesses. Our team of experienced developers and designers are well-versed in the latest e-commerce trends and technologies, and we work closely with our clients to understand their unique needs and goals.</p>
+						</div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Our Process</h3>
+                            <p>Our e-commerce development services include website design and development, platform development, payment gateway integration, website optimization, and ongoing maintenance and support. We use the latest technologies such as HTML5, CSS3, JavaScript, and PHP to create fast, secure, and user-friendly e-commerce websites that are optimized for both desktop and mobile devices.</p>
+						    <p>We have expertise in developing e-commerce websites on a variety of platforms, including Shopify, WooCommerce, Magento, and more. We can help you choose the platform that is best suited to your business needs and customize it to meet your requirements. We can also help you integrate a wide range of payment gateways into your e-commerce website, including PayPal, Stripe, Square, and more.</p>
+                        </div>
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="text-box">
+							<h3 class="fw-6">Why Choose Us ?</h3>
+							<p>We understand that a fast, user-friendly website is crucial for e-commerce success. That's why we optimize our e-commerce websites for speed, performance, and search engine visibility. We use a variety of techniques such as caching, image optimization, and code minification to ensure that your website loads quickly and performs well.</p>
+                            <p>
+                            We also offer ongoing website maintenance and support to ensure that your e-commerce website remains up-to-date, secure, and performing at its best. Our team of experts can handle everything from software updates and security patches to content updates and bug fixes.
+                            </p>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+
+    <div class="section section-l bg-light">
+			<div class="container">
+				<div class="content">
+					<div class="row gutter-vr-30px">
+						<div class="col-xl-6 order-lg-last">
+							<div class="image-block">
+								<img src="{{URL::asset('images/services/e-commerce.jpg')}}" alt="E Commerce Development Services" title="E Commerce Development Services">
+							</div>
+						</div>
+						<div class="col-xl-6">
+							<div class="text-block  project-box-pad bg-primary tc-light h-full">
+								<h2>Boost Your Online Sales with Our E-commerce Development Services</h2>
+								<p class="mt-2">Our e-commerce development services include website design and development, platform development, payment gateway integration, website optimization, and ongoing maintenance and support. We use the latest technologies such as Vuejs,Nextjs,Django & more to create a fast, secure, and engaging e-commerce website that is tailored to your unique business needs.</p>
+                                <p>With our help, you can boost your online sales, increase customer satisfaction, and take your business to new heights. Whether you're just starting out or looking to upgrade your existing e-commerce website, we have the expertise and experience to help you succeed. Contact us today to learn more about our e-commerce development services and take the first step towards growing your business online.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
 
     @include('partials.process2')
 

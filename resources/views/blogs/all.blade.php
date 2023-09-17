@@ -37,11 +37,26 @@
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-QP1GVB6YDT"></script>
   <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-QP1GVB6YDT');
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-QP1GVB6YDT');
   </script>
+
+
+      <!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+            (function(){
+            var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+            s1.async=true;
+            s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
+            s1.charset='UTF-8';
+            s1.setAttribute('crossorigin','*');
+            s0.parentNode.insertBefore(s1,s0);
+            })();
+      </script>
+        <!--End of Tawk.to Script-->
 </head>
 
 <body class="body-wider">
@@ -55,7 +70,7 @@
                     <div class="row">
                         <div class="col-md-10 col-xl-7 offset-xl-0">
                             <div class="banner-content">
-                                <h1 class="banner-heading">Latest Blogs</h1>
+                                <h1 class="banner-heading">Latest Blogs For You</h1>
                             </div>
                         </div>
                     </div>
@@ -81,7 +96,7 @@
                     @foreach($posts as $post)
                     <div class="post post-full">
                         <div class="post-thumb">
-                            <a href="{{url('/')}}/blogs/{{$post->meta_slug}}">
+                            <a href="{{url('/')}}/blogs/{{$post->meta_slug}}" title="{{$post->title}}">
                                 @php
                                     $image = $post->thumbnail;
                                     $image = str_replace('public/', '', $image);
@@ -106,9 +121,9 @@
                                         <p class="text-capitalize">{{$post->author_name}}</p>
                                     </div>
                                 </div>
-                                <h3><a
+                                <h2><a
                                         href="{{url('/')}}/blogs/{{$post->meta_slug}}" class="text-capitalize">{{$post->title}}</a>
-                                </h3>
+                                </h2>
                                 <div class="content">
                                     <p>{{$post->excerpt}}</p>
                                 </div>
@@ -142,9 +157,9 @@
 
                                     @endif
                                     <li>
-                                        <h5><a
+                                        <h4 style="font-size:16px;"><a
                                                 href="{{url('/')}}/blogs/{{$post->meta_slug}}" class="text-capitalize">{{$post->title}}
-                                            </a></h5>
+                                            </a></h4>
                                         <p class="post-tag">{{date('F j, Y', strtotime($post->created_at))}}</p>
                                     </li>
                                     @endforeach
