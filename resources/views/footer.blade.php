@@ -62,7 +62,7 @@
                                     Glencroft Road, Glasgow, G44 5RA, United Kingdom</a>
                             </p>
                             <p>
-                                <a href="tel:+44 7897038679" title="Phone Number" >+44 7897038679</a>
+                                <a href="tel:+447354699047" title="Phone Number" >+447354699047</a>
                             </p>
                             <p>
                                 <a href="mailto:info@megapixeltech.com" title="Email" >info@megapixeltech.com</a>
@@ -84,7 +84,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://wa.me/message/MMU5WOCFOJ6WK1" target="_blank" title="Whatsapp" >
+                                    <a href="https://wa.me/message/AD36IGI4VDVLC1" target="_blank" title="Whatsapp" >
                                         <i class="fab fa-whatsapp fa-2x whatsapp-icon"></i>
                                     </a>
                                 </li>

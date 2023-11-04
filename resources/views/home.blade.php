@@ -672,7 +672,7 @@
     <!-- .logo -->
 
     <!-- section -->
-    <div class="section section-x section-counter tc-light">
+    <div class="section section-x section-counter ">
         <div class="container">
             <div class="row justify-content-between align-items-center gutter-vr-30px">
                 <div class="col-md-5">
