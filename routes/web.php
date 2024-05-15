@@ -21,24 +21,28 @@ use Illuminate\Support\Facades\Artisan;
 |
 */
 //Basic Routes
-Route::get('/', [PostsController::class,'homepage']);
-Route::get('/services', function () {
-    return view('services');
-});
-Route::get('/about', function () {
+Route::get('/', function () {
     return view('about');
 });
-Route::get('/contact', function () {
-    return view('contact');
-});
+// Route::get('/', [PostsController::class,'homepage']);
 
-// Work
-Route::get('/work', function () {
-    return view('work.allworks');
-});
-Route::get('/work/landing', function () {
-    return view('work.landing');
-});
+// Route::get('/services', function () {
+//     return view('services');
+// });
+// Route::get('/about', function () {
+//     return view('about');
+// });
+// Route::get('/contact', function () {
+//     return view('contact');
+// });
+
+// // Work
+// Route::get('/work', function () {
+//     return view('work.allworks');
+// });
+// Route::get('/work/landing', function () {
+//     return view('work.landing');
+// });
 
 
 // Services - Digital Marketing
