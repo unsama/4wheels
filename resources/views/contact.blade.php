@@ -2,60 +2,21 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     <meta charset="utf-8">
-    <meta name="author" content="Megapixel Technologies">
+    <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="{{asset('images/favicon.ico')}}">
     <!-- Site Title  -->
-    <title>Megapixel Technologies - Contact Us</title>
+    <title> - Contact Us</title>
     <meta name="description"
           content="We create powerful content strategies for corporate brands using our proven and tested 'ROADMAP' process. We have a track record of producing digital marketing initiatives that deliver outstanding results.">
     <link rel="canonical" href="{{url('/')}}/contact" />
     <meta name="robots" content="noindex, nofollow" />
-    <!-- Twitter Card data -->
-    <meta name="twitter:card" value="summary">
-    <meta itemprop="name" content="Megapixel Technologies - Digital Agency , Creative Solutions">
-    <meta itemprop="description"
-          content="We create powerful content strategies for corporate brands using our proven and tested 'ROADMAP' process. We have a track record of producing digital marketing initiatives that deliver outstanding results.">
-    <meta itemprop="image" content="{{url('/')}}">
-
-    <!-- Open Graph data -->
-    <meta property="og:title" content="Megapixel Technologies - Digital Agency , Creative Solutions" />
-    <meta property="og:type" content="article" />
-    <meta property="og:url" content="{{url('/')}}" />
-    <meta property="og:image" content="{{url('/')}}/images/bg-a-light.jpg" />
-    <meta property="og:description"
-          content="We create powerful content strategies for corporate brands using our proven and tested 'ROADMAP' process. We have a track record of producing digital marketing initiatives that deliver outstanding results." />
-
+  
     <!-- Bundle and Base CSS -->
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
     <link rel="stylesheet" href="{{asset('css/vendor.bundle.css')}}">
     <link rel="stylesheet" href="{{asset('css/theme.css')}}">
-
-      <!-- Google tag (gtag.js) -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-QP1GVB6YDT"></script>
-      <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-QP1GVB6YDT');
-      </script>
-
-
-      <!--Start of Tawk.to Script-->
-      <script type="text/javascript">
-        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-        (function(){
-        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-        s1.async=true;
-        s1.src='https://embed.tawk.to/6411970b4247f20fefe602fc/1gribc1op';
-        s1.charset='UTF-8';
-        s1.setAttribute('crossorigin','*');
-        s0.parentNode.insertBefore(s1,s0);
-        })();
-        </script>
-        <!--End of Tawk.to Script-->
 
 </head>
 <body>
@@ -63,20 +24,7 @@
     <div class="header-box">
         @include('header')
         <div class="banner banner-inner tc-light">
-            <div class="banner-block">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="banner-content">
-                                <h1 class="banner-heading">Lets’s Work Together</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="bg-image">
-                    <img src="{{asset('images/banner-sm-d.jpg')}}" alt="Megapixel Technologies" title="Megapixel Technologies" loading="lazy">
-                </div>
-            </div>
+            
         </div>
     </div>
 </header>
@@ -88,36 +36,36 @@
         <div class="row">
             <div class="col-xl-4 col-lg-8">
                 <div class="section-head">
-                    <h2 class="heading-xs dash">Feel the form</h4>
-                    <h2>Describe your project and leave us your contact info</h2>
+                    <h2 class="heading-xs dash">Fill the form</h4>
+                    <h2>Describe your need and leave us your contact info</h2>
                 </div>
             </div><!-- .col -->
         </div><!-- .row -->
         <div class="row gutter-vr-30px">
             <div class="col-lg-4 order-lg-last">
-                <div class="contact-text contact-text-s2 bg-secondary box-pad ">
+                <div class="contact-text contact-text-s2 box-pad " style="background-color:#ffd184">
                     <div class="text-box">
-                        <h3>Megapixel Technologies</h3>
-                        <p class="lead">33 Glencroft Road, Glasgow, G44 5RA, United Kingdom</p>
+                        <h3>4wheeler LTD</h3>
+                        <p class="lead"> United Kingdom</p>
                     </div>
                     <ul class="contact-list">
                         <li>
-                            <em class="contact-icon ti-mobile"></em>
+                            <em style="color:#FAA61A" class="contact-icon ti-mobile"></em>
                             <div class="conatct-content">
-                                <a href="tel:+447354699047">+447354699047</a>
+                                <a href="tel:+447354699047">+44123456</a>
                             </div>
                         </li>
                         <li>
-                            <em class="contact-icon ti-email"></em>
+                            <em style="color:#FAA61A" class="contact-icon ti-email"></em>
                             <div class="conatct-content">
-                                <a href="mailto:info@megapixeltech.com">info@megapixeltech.com</a>
+                                <a href="mailto:info@megapixeltech.com">info@4wheelerltd.com</a>
                             </div>
                         </li>
                         <li>
-                            <em class="contact-icon ti-map-alt"></em>
+                            <em style="color:#FAA61A" class="contact-icon ti-map-alt"></em>
                             <div class="conatct-content">
                                 <a
-                                    href="https://www.google.com/maps/place/33+Glencroft+Rd,+Glasgow+G44+5RA,+UK/@55.8173641,-4.240391,17z/data=!3m1!4b1!4m5!3m4!1s0x48884720b9f9f227:0x41e5522afef3d2ab!8m2!3d55.8173611!4d-4.2378161">Get
+                                    href="#">Get
                                     Directions</a>
                             </div>
                         </li>
@@ -179,7 +127,7 @@
 								<textarea name="user_message" placeholder="Briefly tell us about your project. "
                                           class="input input-msg bdr-b required"></textarea>
                             <input type="text" class="d-none" name="form-anti-honeypot" value="">
-                            <button type="submit" class="btn">Send Message</button>
+                            <button type="submit" class="btn" style="background-color: #FAA61A;">Send Message</button>
                         </div>
                     </div>
                 </form>
@@ -191,7 +139,7 @@
 
 @include('footer')
 
-@include('partials.preloader')
+
 <!-- JavaScript -->
 <script src="{{asset('js/jquery.bundle.js')}}"></script>
 <script src="{{asset('js/scripts.js')}}"></script>

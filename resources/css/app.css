@@ -3089,7 +3089,7 @@ hr {
 }
 
 .tc-light p {
-    color: #ffffff !important;
+    color: black !important;
 }
 .tc-light h1,
 .tc-light h2,
@@ -3097,7 +3097,7 @@ hr {
 .tc-light h4,
 .tc-light h5,
 .tc-light h6 {
-    color: #ffffff !important;
+    color: black !important;
 }
 .tc-light .color-primary {
     color: #2a6bff !important;
@@ -3236,7 +3236,7 @@ hr {
 }
 
 .tc-light {
-    color: #ffffff;
+    color: black;
 }
 
 .color-accent {

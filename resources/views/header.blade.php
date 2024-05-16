@@ -3,7 +3,7 @@
     <div class="header-wrap">
         <!-- Logo  -->
         <div class="header-logo logo">
-            <a href="https://megapixeltech.com/" class="logo-link" title="megapixel technologies">
+            <a href="#" class="logo-link" title="megapixel technologies">
                 <img class="logo-white" src="{{URL::asset('images/logos/wheeler-logo.png')}}" alt="Megapixel Technologies" width="100%" height="100%" title="Megapixel Technologies" loading="lazy">
             </a>
         </div>
@@ -24,9 +24,28 @@
             <nav class="header-menu" id="header-menu">
                 <ul class="menu">
                     <li class="menu-item">
-                        <a class="menu-link nav-link" href="{{url('/')}}" title="Home" >Home</a>
+                        <a class="menu-link nav-link" href="{{url('/')}}" title="MOT" >MOT</a>
                     </li>
-                                  </ul>
+                    <li class="menu-item">
+                        <a class="menu-link nav-link" href="{{url('/')}}" title="Servicing" >Servicing</a>
+                    </li>
+                    <li class="menu-item">
+                        <a class="menu-link nav-link" href="{{url('/')}}" title="Tyres" >Tyres</a>
+                    </li>
+                    <li class="menu-item">
+                        <a class="menu-link nav-link" href="{{url('/')}}" title="Other Services" >Other Services</a>
+                    </li>
+                    <li class="menu-item">
+                        <a class="menu-link nav-link" href="{{url('/')}}" title="Other Services" >Electric Vehicles</a>
+                    </li>
+                    <li class="menu-item">
+                        <a class="menu-link nav-link" href="{{url('/')}}" title="Other Services" >About Us</a>
+                    </li>
+                    <li class="menu-item">
+                        <a class="menu-link nav-link" href="{{url('/contact')}}" title="Contact Us" >Contact Us</a>
+                    </li>
+                                  
+                </ul>
             </nav>
         </div><!-- .header-navbar -->
 
