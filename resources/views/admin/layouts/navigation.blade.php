@@ -6,7 +6,7 @@
                 <!-- Logo -->
                 <div class="shrink-0 flex items-center">
                     <a href="{{ route('admin.dashboard') }}">
-                        <img src="{{URL::asset('images/logos/logo-1.png')}}" class="h-20" alt="">
+                        <img src="{{URL::asset('images/logos/wheeler-logo.png')}}" class="h-20" alt="">
                     </a>
                 </div>
 
@@ -36,10 +36,7 @@
                     </x-slot>
 
                     <x-slot name="content">
-                        <x-dropdown-link :href="route('admin.profile.edit')">
-                            {{ __('Profile') }}
-                        </x-dropdown-link>
-
+                       
                         <!-- Authentication -->
                         <form method="POST" action="{{ route('admin.logout') }}">
                             @csrf
@@ -82,10 +79,7 @@
             </div>
 
             <div class="mt-3 space-y-1">
-                <x-responsive-nav-link :href="route('admin.profile.edit')">
-                    {{ __('Profile') }}
-                </x-responsive-nav-link>
-
+               
                 <!-- Authentication -->
                 <form method="POST" action="{{ route('admin.logout') }}">
                     @csrf

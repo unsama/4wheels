@@ -137,14 +137,14 @@ Route::get('/storage-link', function (){
 //Admin Routes
 
 
-Route::middleware('auth:admin')->group(function () {
-    Route::get('/admin/dashboard', function() { return view('admin.dashboard'); })->name('admin.dashboard');
-    Route::post('/admin/dashboard', [PostsController::class, 'store']);
-    // Route::post('/admin/add-post', [PostsController::class, 'store']);
-    Route::get('/admin/profile', [ProfileControllerAdmin::class, 'edit'])->name('admin.profile.edit');
-    Route::patch('/admin/profile', [ProfileControllerAdmin::class, 'update'])->name('admin.profile.update');
-    Route::delete('/admin/profile', [ProfileControllerAdmin::class, 'destroy'])->name('admin.profile.destroy');
-});
+// Route::middleware('auth:admin')->group(function () {
+//     Route::get('/admin/dashboard', function() { return view('admin.dashboard'); })->name('admin.dashboard');
+//     Route::post('/admin/dashboard', [PostsController::class, 'store']);
+//     // Route::post('/admin/add-post', [PostsController::class, 'store']);
+//     Route::get('/admin/profile', [ProfileControllerAdmin::class, 'edit'])->name('admin.profile.edit');
+//     Route::patch('/admin/profile', [ProfileControllerAdmin::class, 'update'])->name('admin.profile.update');
+//     Route::delete('/admin/profile', [ProfileControllerAdmin::class, 'destroy'])->name('admin.profile.destroy');
+// });
 
 // Route::middleware('auth')->group(function () {
 //     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');

@@ -37,10 +37,10 @@
         </div>
 
         <!-- Include Editor JS files. -->
-        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/froala-editor@latest/js/froala_editor.pkgd.min.js"></script>
+        <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/froala-editor@latest/js/froala_editor.pkgd.min.js"></script> -->
 
-        <script>
+        <!-- <script>
             new FroalaEditor('textarea');
-        </script>
+        </script> -->
     </body>
 </html>
